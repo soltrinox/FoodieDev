@@ -73,7 +73,7 @@ function exfood_shortcode_carousel( $atts ) {
 		<?php
 		if ($the_query->have_posts()){
 			while ($the_query->have_posts()) { $the_query->the_post();
-				echo '<div class="item-grid" data-id="ex_id-'.esc_attr($ID).'-'.get_the_ID().'" data-id_food="'.get_the_ID().'"> ';
+				echo '<div class="item-grid" data-id="ex_id-'.esc_attr($ID).'-'.get_the_ID().'" data-id_food="'.get_the_ID().'"  name="SearchItemElements" data-name="SearchResultsItem"> ';
 					?>
 					<div class="exp-arrow">
 						<?php 
@@ -82,6 +82,11 @@ function exfood_shortcode_carousel( $atts ) {
 					<div class="exfd_clearfix"></div>
 					</div>
 					<?php
+
+                echo ' <h4 class="ml-4" style="height: 2px">&nbsp;<span class="badge bg-black fg-white" style="margin-top:20px; margin-right:20px; " id="productIDLoopBadge';
+                echo get_the_ID() ; #the_ID();
+                echo '" name="productBadge" >0</span></h4>';
+
 				echo '</div>';
 			}
 		} ?>

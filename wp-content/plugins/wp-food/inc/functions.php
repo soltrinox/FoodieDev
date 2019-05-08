@@ -363,7 +363,7 @@ function ajax_exfood_loadmore(){
 			if($layout=='table'){
 				exfood_template_plugin('table-'.$style,1);
 			}else if($layout=='list'){
-				echo '<div class="fditem-list item-grid" data-id="ex_id-'.esc_attr($ID).'-'.get_the_ID().'" data-id_food="'.get_the_ID().'"> ';
+				echo '<div class="fditem-list item-grid" data-id="ex_id-'.esc_attr($ID).'-'.get_the_ID().'" data-id_food="'.get_the_ID().'"   name="SearchItemElements" data-name="SearchResultsItem" > ';
 						?>
 					<div class="exp-arrow" >
 						<?php 
@@ -372,9 +372,14 @@ function ajax_exfood_loadmore(){
 					<div class="exfd_clearfix"></div>
 					</div>
 					<?php
+
+                echo ' <h4 class="ml-4" style="height: 2px">&nbsp;<span class="badge bg-black fg-white" style="margin-top:20px; margin-right:20px; " id="productIDLoopBadge';
+                echo get_the_ID() ; #the_ID();
+                echo '" name="productBadge" >0</span></h4>';
+
 				echo '</div>';
 			}else{
-				echo '<div class="item-grid" data-id="ex_id-'.esc_attr($ID).'-'.get_the_ID().'" data-id_food="'.get_the_ID().'"> ';
+				echo '<div class="item-grid" data-id="ex_id-'.esc_attr($ID).'-'.get_the_ID().'" data-id_food="'.get_the_ID().'"  name="SearchItemElements" data-name="SearchResultsItem" > ';
 					?>
 					<div class="exp-arrow">
 						<?php 
@@ -383,6 +388,11 @@ function ajax_exfood_loadmore(){
 					<div class="exfd_clearfix"></div>
 					</div>
 					<?php
+
+                echo ' <h4 class="ml-4" style="height: 2px">&nbsp;<span class="badge bg-black fg-white" style="margin-top:20px; margin-right:20px; " id="productIDLoopBadge';
+                echo get_the_ID() ; #the_ID();
+                echo '" name="productBadge" >0</span></h4>';
+
 				echo '</div>';
 			}
 			if($end_it_nb!='' && $end_it_nb == $i){break;}
@@ -511,10 +521,11 @@ function ajax_exfood_category(){
 		}
 		$arr_ids = array();
 		$html_modal = '';
+		$i = 0;
 		while($the_query->have_posts()){ $the_query->the_post();
 			$i++;
 			if($layout=='list'){
-				echo '<div class="fditem-list item-grid" data-id="ex_id-'.esc_attr($ID).'-'.get_the_ID().'" data-id_food="'.get_the_ID().'"> ';
+				echo '<div class="fditem-list item-grid" data-id="ex_id-'.esc_attr($ID).'-'.get_the_ID().'" data-id_food="'.get_the_ID().'"  name="SearchItemElements" data-name="SearchResultsItem" > ';
 						?>
 					<div class="exp-arrow" >
 						<?php 
@@ -523,11 +534,16 @@ function ajax_exfood_category(){
 					<div class="exfd_clearfix"></div>
 					</div>
 					<?php
+
+                echo ' <h4 class="ml-4" style="height: 2px">&nbsp;<span class="badge bg-black fg-white" style="margin-top:20px; margin-right:20px; " id="productIDLoopBadge';
+                echo get_the_ID() ; #the_ID();
+                echo '" name="productBadge" >0</span></h4>';
+
 				echo '</div>';
 			}elseif($layout=='table'){
 				exfood_template_plugin('table-'.$style,1);
 			}else{
-				echo '<div class="item-grid" data-id="ex_id-'.esc_attr($ID).'-'.get_the_ID().'" data-id_food="'.get_the_ID().'"> ';
+				echo '<div class="item-grid" data-id="ex_id-'.esc_attr($ID).'-'.get_the_ID().'" data-id_food="'.get_the_ID().'"  name="SearchItemElements" data-name="SearchResultsItem" > ';
 					?>
 					<div class="exp-arrow">
 						<?php 
@@ -536,6 +552,11 @@ function ajax_exfood_category(){
 					<div class="exfd_clearfix"></div>
 					</div>
 					<?php
+
+                echo ' <h4 class="ml-4" style="height: 2px">&nbsp;<span class="badge bg-black fg-white" style="margin-top:20px; margin-right:20px; " id="productIDLoopBadge';
+                echo get_the_ID() ; #the_ID();
+                echo '" name="productBadge" >0</span></h4>';
+
 				echo '</div>';
 			}
 			if($end_it_nb!='' && $end_it_nb == $i){break;}
