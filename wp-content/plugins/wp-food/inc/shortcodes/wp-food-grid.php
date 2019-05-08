@@ -68,13 +68,16 @@ function exfood_shortcode_grid( $atts ) {
 			}else{
 				$num_pg = 1;
 			}
+
+            $idct = 0;
+
 			while ($the_query->have_posts()) { $the_query->the_post();
 				$arr_ids[] = get_the_ID();
 				$i++;
 				if(($num_pg == $paged) && $num_pg!='1'){
 					if($i > $it_ep){ break;}
 				}
-				echo '<div class="item-grid" data-id="ex_id-'.esc_attr($ID).'-'.get_the_ID().'" data-id_food="'.get_the_ID().'"> ';
+				echo '<div class="item-grid" data-id="ex_id-'.esc_attr($ID).'-'.get_the_ID().'" data-id_food="'.get_the_ID().'"   name="SearchItemElements" data-name="SearchResultsItem" > ';
 					?>
 					<div class="exp-arrow">
 						<?php 
@@ -83,10 +86,15 @@ function exfood_shortcode_grid( $atts ) {
 					<div class="exfd_clearfix"></div>
 					</div>
 					<?php
+                $idct++;
+                echo ' <h4 class="ml-4" style="height: 2px">&nbsp;<span class="badge bg-black fg-white" style="margin-top:20px; margin-right:20px; " id="productIDLoopBadge';
+                echo get_the_ID() ; #the_ID();
+                echo '" name="productBadge" >0</span></h4>';
 				echo '</div>';
-			}
-		} ?>
-		</div>
+
+			    }
+		    } ?>
+		    </div>
 		</div>
 		<!-- Modal ajax -->
 		<?php global $modal_html;
