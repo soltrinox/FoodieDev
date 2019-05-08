@@ -73,7 +73,7 @@ function exfood_shortcode_carousel( $atts ) {
 		<?php
 		if ($the_query->have_posts()){
 			while ($the_query->have_posts()) { $the_query->the_post();
-				echo '<div class="item-grid" data-id="ex_id-'.esc_attr($ID).'-'.get_the_ID().'" data-id_food="'.get_the_ID().'"  name="SearchItemElements" data-name="SearchResultsItem"> ';
+				echo '<div  id="SearchItemNumber'. get_the_ID() .'" class="item-grid" data-id="ex_id-'.esc_attr($ID).'-'.get_the_ID().'" data-id_food="'.get_the_ID().'"  name="SearchItemElements" data-name="SearchResultsItem"> ';
 					?>
 					<div class="exp-arrow">
 						<?php 

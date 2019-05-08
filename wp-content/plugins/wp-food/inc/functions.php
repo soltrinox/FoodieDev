@@ -363,7 +363,7 @@ function ajax_exfood_loadmore(){
 			if($layout=='table'){
 				exfood_template_plugin('table-'.$style,1);
 			}else if($layout=='list'){
-				echo '<div class="fditem-list item-grid" data-id="ex_id-'.esc_attr($ID).'-'.get_the_ID().'" data-id_food="'.get_the_ID().'"   name="SearchItemElements" data-name="SearchResultsItem" > ';
+				echo '<div  id="SearchItemNumber'. get_the_ID() .'" class="fditem-list item-grid" data-id="ex_id-'.esc_attr($ID).'-'.get_the_ID().'" data-id_food="'.get_the_ID().'"   name="SearchItemElements" data-name="SearchResultsItem" > ';
 						?>
 					<div class="exp-arrow" >
 						<?php 
@@ -379,7 +379,7 @@ function ajax_exfood_loadmore(){
 
 				echo '</div>';
 			}else{
-				echo '<div class="item-grid" data-id="ex_id-'.esc_attr($ID).'-'.get_the_ID().'" data-id_food="'.get_the_ID().'"  name="SearchItemElements" data-name="SearchResultsItem" > ';
+				echo '<div  id="SearchItemNumber'. get_the_ID() .'" class="item-grid" data-id="ex_id-'.esc_attr($ID).'-'.get_the_ID().'" data-id_food="'.get_the_ID().'"  name="SearchItemElements" data-name="SearchResultsItem" > ';
 					?>
 					<div class="exp-arrow">
 						<?php 
@@ -525,7 +525,7 @@ function ajax_exfood_category(){
 		while($the_query->have_posts()){ $the_query->the_post();
 			$i++;
 			if($layout=='list'){
-				echo '<div class="fditem-list item-grid" data-id="ex_id-'.esc_attr($ID).'-'.get_the_ID().'" data-id_food="'.get_the_ID().'"  name="SearchItemElements" data-name="SearchResultsItem" > ';
+				echo '<div  id="SearchItemNumber'. get_the_ID() .'" class="fditem-list item-grid" data-id="ex_id-'.esc_attr($ID).'-'.get_the_ID().'" data-id_food="'.get_the_ID().'"  name="SearchItemElements" data-name="SearchResultsItem" > ';
 						?>
 					<div class="exp-arrow" >
 						<?php 
@@ -543,7 +543,7 @@ function ajax_exfood_category(){
 			}elseif($layout=='table'){
 				exfood_template_plugin('table-'.$style,1);
 			}else{
-				echo '<div class="item-grid" data-id="ex_id-'.esc_attr($ID).'-'.get_the_ID().'" data-id_food="'.get_the_ID().'"  name="SearchItemElements" data-name="SearchResultsItem" > ';
+				echo '<div  id="SearchItemNumber'. get_the_ID() .'" class="item-grid" data-id="ex_id-'.esc_attr($ID).'-'.get_the_ID().'" data-id_food="'.get_the_ID().'"  name="SearchItemElements" data-name="SearchResultsItem" > ';
 					?>
 					<div class="exp-arrow">
 						<?php 

@@ -18,7 +18,7 @@
     }
   }
 ?>
-<figure class="exstyle-1 tppost-<?php the_ID();?>">
+<figure class="exstyle-1 tppost-<?php the_ID();?>" id="itemNode<?php get_the_ID() ; ?>"  name="itemNodes" >
 
   <div class="exstyle-1-image">
     <a class="exfd_modal_click" href="<?php echo esc_url($customlink); ?>">
@@ -27,10 +27,10 @@
     </a>
     <?php exfood_sale_badge($saleprice); ?>
   </div><figcaption>
-    <h3><a class="exfd_modal_click" href="<?php echo esc_url($customlink); ?>"><?php the_title(); ?></a></h3>
+        <h3><a class="exfd_modal_click" href="<?php echo esc_url($customlink); ?>"  id="itemNodeLink<?php get_the_ID() ; ?>"  name="itemNodeLink"  ><span id="itemNodeName<?php get_the_ID() ; ?>"  name="itemNodeName"><?php the_title(); ?></span></a></h3>
     <h5>
       <p>
-        <span>
+        <span  id="itemNodePrice<?php get_the_ID() ; ?>"  name="itemNodePrice"  >
           <?php if ($saleprice > 0) {?>
             <del><?php echo wp_kses_post($price); ?></del> <ins><?php echo wp_kses_post($saleprice); ?></ins>
           <?php }else{
@@ -41,7 +41,7 @@
     </h5>
     <?php 
       if(has_excerpt(get_the_ID())){?>
-          <p><?php echo wp_trim_words(get_the_excerpt(),$number_excerpt,'...'); ?></p>
+          <p  id="itemNodeDesc<?php get_the_ID() ; ?>"  name="itemNodeDesc"  ><?php echo wp_trim_words(get_the_excerpt(),$number_excerpt,'...'); ?></p>
       <?php }?>
       <?php
       exfood_booking_button_html(1);

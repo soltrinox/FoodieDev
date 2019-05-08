@@ -32,7 +32,7 @@ $customlink = EX_WPFood_customlink(get_the_ID());
     }
   }
 ?>
-<tr data-id_food="<?php echo get_the_ID()?>">
+<tr data-id_food="<?php echo get_the_ID()?>"   id="SearchItemNumber<?php get_the_ID(); ?>" >
   <td><a href="<?php echo esc_url($customlink); ?>"><?php the_post_thumbnail('exfood_80x80'); ?></a></td>
   <td id="extd-<?php echo get_the_ID()?>" class="ex-fd-name" data-sort="<?php echo esc_attr(get_the_title());?>">
     <?php echo '<div class="item-grid tppost-'.get_the_ID().'" ';?>

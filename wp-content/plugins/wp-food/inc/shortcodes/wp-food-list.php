@@ -76,7 +76,7 @@ function exfood_shortcode_list( $atts ) {
 					if(($num_pg == $paged) && $num_pg!='1'){
 						if($i > $it_ep){ break;}
 					}
-					echo '<div class="fditem-list item-grid" data-id="ex_id-'.esc_attr($ID).'-'.get_the_ID().'" data-id_food="'.get_the_ID().'"   name="SearchItemElements" data-name="SearchResultsItem" > ';
+					echo '<div  id="SearchItemNumber'. get_the_ID() .'" class="fditem-list item-grid" data-id="ex_id-'.esc_attr($ID).'-'.get_the_ID().'" data-id_food="'.get_the_ID().'"   name="SearchItemElements" data-name="SearchResultsItem" > ';
 						?>
 						<div class="exp-arrow" >
 							<?php 
