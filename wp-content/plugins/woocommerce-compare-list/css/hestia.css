@@ -1,0 +1,9 @@
+.woocommerce.archive .wccm-button {
+    margin-bottom: 30px;
+}
+
+.woocommerce .wccm-button:hover,
+.woocommerce .wccm-catalog-item .button:hover {
+    color: #ffffff;
+    opacity: 1;
+}

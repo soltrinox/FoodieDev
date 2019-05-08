@@ -1,0 +1,224 @@
+.ex-fdlist .ctlist button,.ex-fdlist .ctlist input,.ex-fdlist .ctlist select,.ex-fdlist .ctlist textarea{
+  font-family: 'Source Sans Pro', sans-serif;
+}
+.ex-fdlist .ctlist table th.exp-sort > i{
+  float: right;
+  margin-top: 4px;
+}
+.ex-fdlist .ctlist tbody tr td > a{
+  display: inherit;
+  overflow: hidden;
+}
+.ex-fdlist .ctlist .exp-td-first{
+  padding: 5px;
+}
+/*Start table 1*/
+.exfd-table-1{
+  border: 0;
+}
+.exfd-table-1 tbody tr:nth-child(odd){
+  background-color: #f5f5f5;
+}
+.exfd-table-1 .exfd-hide-mb{display: none;}
+.exfd-table-1 .exfd-show-tablet{display: none;}
+.exfd-table-1 thead th:nth-child(1),
+.exfd-table-1 tbody td:nth-child(1)
+{width: 10%}
+.exfd-table-1 th.ex-fd-name,
+.exfd-table-1 td.ex-fd-name{
+  width: 20%
+}
+.exfd-table-1 th.ex-fd-table-des,
+.exfd-table-1 td.ex-fd-table-des{
+  width: auto;
+}
+.exfd-table-1.exfd-non-showdes th.ex-fd-name,
+.exfd-table-1.exfd-non-showdes td.ex-fd-name{width: auto;}
+.exfd-table-1 th.exfd-price,
+.exfd-table-1 td.exfd-price{width: 10%}
+.exfd-table-1 th.ex-fd-category,
+.exfd-table-1 td.ex-fd-category{width: 15%}
+.exfd-table-1 th.ex-fd-table-order,
+.exfd-table-1 td.ex-fd-table-order{width: 50px}
+.exfd-table-1 th, .exfd-table-1 td{border:0;}
+.exfd-table-1 td{color: #333; font-size: inherit;padding: 10px 5px; border-bottom: 1px dashed rgba(0, 0, 0, 0.15);}
+.exfd-table-1 img{
+  width: 100%;
+  transition: all .35s;
+}
+.exfd-table-1 th{
+  border: 0;
+  font-size: 15px;
+  color: #fff;
+  line-height: 1.4;
+  background-color: #ea1f2e;
+  padding: 15px;
+  text-transform: uppercase;
+  border-right: 1px solid #fff;
+  font-weight:400;
+}
+.exfd-table-1 th:last-child{ border-right:0;}
+
+.exfd-table-1 tbody tr.odd{background-color: #f8f6ff;}
+.exfd-table-1 tbody tr:hover img{
+  transform: scale(1.15);
+}
+.exfd-table-1 h3,
+.exfd-table-1 h5,
+.exfd-table-1 p{font-size: inherit;}
+.exfd-table-1 h5{text-transform: capitalize;}
+.exfd-table-1 .ex-social-account li a,
+.ex-table-2 .ex-social-account li a
+{background: inherit; color: #333;}
+.exfd-table-1 td del {
+    margin: 0;
+    padding: 0;
+    color: inherit;
+}
+.exfd-table-1 td ins {
+    background: none;
+    margin: 0;
+    padding: 0;
+    color: inherit;
+}
+.exfd-table-1 td.ex-fd-name h3 a{padding:0; margin: 0 ;color: inherit; text-transform: capitalize; font-weight: normal; font-size: 22px}
+.exfd-table-1 td .exfd-price-detail{font-family: inherit; font-weight: bold;}
+.exfd-table-1 td.ex-fd-table-order{
+  position: relative;
+  text-align: center;
+}
+.exfd-table-1 .ex-fd-category p {
+    display: inline-block;
+    border: 1px solid #ddd;
+    padding: 2px 5px;
+    line-height: 1;
+    margin: 0 3px 3px 0;
+}
+.exfd-table-1 td .minus_food,
+.exfd-table-1 td .plus_food{
+  display: none;
+}
+.exfd-table-1 .exstyle-button-bin.ex-cart{
+  position: static;
+  transform: translateX(0);
+  vertical-align: top;
+  max-height: 38px;
+  padding: 13px 30px;
+}
+.exfd-table-1 ..exfood-sm{margin-top: 0}
+.exfd-table-1 .exfood-buildin-cart input[name="food_qty"], .exfd-table-1 .exfood-woocommerce.woocommerce div.quantity input[type=number] {
+    -moz-appearance: textfield;
+    border: 0;
+    background: #ea1f2e;
+    max-width: 38px;
+    max-height: 38px;
+    color: #fff;
+    padding: 10px 6px;
+}
+.exfd-table-1 .ex-fd-table-order button{
+  background: #fff;
+  border: 2px solid #ea1f2e;
+  width: 25px;
+  height: 25px;
+  padding: 0;
+}
+.exfd-table-1 .ex-fd-table-order .exfd-icon-plus{
+  width: 21px;
+  height: 21px;
+  background-color: #fff;
+}
+.exfd-table-1 .ex-fd-table-order .exfd-icon-plus:after{
+  background-color: #ea1f2e;
+  width: 15px;
+  height: 3px;
+  top: 9px;
+  left: 3px;
+}
+.exfd-table-1 .ex-fd-table-order .exfd-icon-plus:before{
+  background-color: #ea1f2e;
+  width: 3px;
+  height: 15px;
+  top: 3px;
+  left: 9px;
+}
+.exfd-table-1 .ex-fd-name .ex-fd-table-order{margin-top: 6px;}
+/*End table 1*/
+.table-lv-sort .r-search {
+    padding: 10px 15px;
+  float: right; margin: 15px 0;
+    background: #fafafa;
+    border: 1px solid #eee;
+}
+.table-lv-sort th.exp-sort {
+  cursor: pointer;
+  text-align:left;
+  position: relative;
+}
+.table-lv-sort th.exp-sort:before,.table-lv-sort th.exp-sort:after{ 
+  border: 6px solid transparent;
+  content: "";
+  display: block;
+  height: 0;
+  right: 5px;
+  top: 50%;
+  position: absolute;
+  width: 0;
+}
+.table-lv-sort th.exp-sort:before{ 
+  border-bottom-color: #fff;
+  margin-top: -13px;
+}
+.table-lv-sort th.exp-sort:after{
+  border-top-color: #fff;
+  margin-top: 0px;
+}
+.table-lv-sort th.exp-sort.s-ascending:after{ border-top-color: transparent;}
+.table-lv-sort th.exp-sort.s-descending:before{ border-bottom-color: transparent;}
+.table-lv-sort .r-search > * {
+    display: inline-block;
+    width: auto;
+    font-family: inherit;
+  font-size: 13px;
+}
+.table-lv-sort .r-search label{ margin-right:15px;}
+.table-lv-sort .r-search input{height: 37px; line-height: 1; border: 1px solid #ddd; background: #fff; height: 37px; padding: 6px 12px; border-radius: 0;}
+/* Responsive table*/
+@media screen and (max-width: 992px){
+  /*.exfd-table-1 thead th:first-child{width: 15%}*/
+  .exfd-table-1 .exfd-show-tablet{display: block;}
+  .exfd-table-1 .exfd-hide-tablet{display: none;}
+}
+@media screen and (max-width: 768px){
+  .exfd-table-1 .exfd-hide-mb{display: block;}
+  .exfd-table-1 .exfd-hide-screen{display: none;}
+  .exfd-table-1 .exfd-detail{float: left;}
+  .ex-table-2 .exfd-hide-mb{display: block;}
+  .ex-table-2 .exfd-hide-screen{display: none;}
+
+  .exfd-table-1 thead th:nth-child(1),
+  .exfd-table-1 tbody td:nth-child(1){width: 80px}
+  .exfd-table-1 th.ex-fd-name,
+  .exfd-table-1 td.ex-fd-name{
+    width: 75%;
+  }
+  .exfd-table-1.exfd-non-showdes th.ex-fd-name, .exfd-table-1.exfd-non-showdes td.ex-fd-name
+   {
+    width: 70%;
+  }
+
+}
+@media screen and (max-width: 450px){
+  .exfd-table-1 thead th:nth-child(1), .exfd-table-1 tbody td:nth-child(1) {
+    width: 70px;
+  }
+  .exfd-table-1 thead th:nth-child(2), .exfd-table-1 tbody td:nth-child(2) {
+    width: 60%;
+  }
+  .exfd-table-1 .exfood-buildin-cart .exfood-quantity{
+    padding-bottom: 5px;
+  }
+  .exfd-table-1.exfd-non-showdes th.ex-fd-name, .exfd-table-1.exfd-non-showdes td.ex-fd-name {
+    width: unset;
+  }
+}
+.table-layout .ex-loadmore{ border:0; padding:0;}

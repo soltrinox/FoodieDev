@@ -1,0 +1,74 @@
+.ex-food-single {
+    display: block;
+    margin: 40px -15px;
+  }
+  .ex-food-single .ex-content-food { width:75%; float:left; padding: 0 15px; box-sizing: border-box;}
+  .ex-food-single .exfood-sidebar{width:25%;float: left;  padding: 0 15px; box-sizing: border-box;}
+  .ex-food-single .exfood-sidebar > * {
+      width: 100%;
+  }
+  .ex-food-single .food-img{ width:40%; float: left; }
+  .ex-food-single .food-description{ width: 60%; float: right; padding: 0 0 0 30px; }
+
+.ex-food-single .exfd_nutrition{
+    width: 100%;
+    margin: 0 5px 0 0;
+    border-bottom: 1px solid #eee;
+    padding: 0px 0 7px 0;
+}
+.ex-food-single .exfd_nutrition ul{
+    list-style: none;
+    margin: 0;
+    padding: 0
+}
+.ex-food-single .exfd_nutrition li{
+    width: 33.33%;
+    float: left;
+    font-size: inherit;
+    margin: 7px 0;
+}
+.ex-food-single .exfd_nutrition li span{
+    color: #666666;
+    line-height: 1;
+    font-size: 12px;
+    font-weight: 700;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    display: block;
+}
+.ex-food-single .food-description > h3{
+    padding: 0;
+    margin: 0 0 20px 0;
+    text-align: left;
+    font-size: 27px;
+    position: relative;
+}
+.ex-food-single .food-description > h3:after {
+    bottom: -15px;
+    content: "";
+    width: 50px;
+    border-bottom: 3px solid #ddd;
+    position: absolute;
+    left: 0;
+}
+.ex-food-single .food-description > h5{
+    margin:17px 0;
+    padding: 0;
+    text-align: left;
+    font-size: 20px;
+    color: #101010;
+    font-weight: bold;
+    border-bottom: 1px solid #eee;
+    padding-bottom: 20px;
+}
+.ex-food-single .food-description > h5 del{
+  margin: 0;
+  padding: 0;
+  color: #2b2b2b;
+ }
+.ex-food-single .food-description > h5 ins{
+    background: none;
+    margin: 0;
+    padding: 0;
+    color: inherit;
+}

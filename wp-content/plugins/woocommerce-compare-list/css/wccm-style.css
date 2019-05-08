@@ -1,0 +1,5 @@
+.wccm-button,
+.woocommerce.single-product .wccm-button {
+    display: inline-block;
+    margin: 10px 5px;
+}

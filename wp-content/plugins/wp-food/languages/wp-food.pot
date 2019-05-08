@@ -1,0 +1,2427 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP-Food\n"
+"POT-Creation-Date: 2019-04-08 11:40+0700\n"
+"PO-Revision-Date: 2019-04-08 11:40+0700\n"
+"Last-Translator: \n"
+"Language-Team: Ex Themes\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: __;_e;esc_html__;esc_html_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: wp-food/wp-food.php:38
+msgid "Single Food"
+msgstr ""
+
+#: wp-food/wp-food.php:40
+msgid "Sidebar for single food"
+msgstr ""
+
+#: wp-food/admin/class-wp-food-postype.php:13
+#: wp-food/admin/class-wp-food-postype.php:14
+#: wp-food/admin/class-wp-food-postype.php:19
+#: wp-food/admin/class-wp-food-postype.php:25
+msgid "Food"
+msgstr ""
+
+#: wp-food/admin/class-wp-food-postype.php:15
+#: wp-food/admin/class-wp-food-postype.php:16
+msgid "Add New Food"
+msgstr ""
+
+#: wp-food/admin/class-wp-food-postype.php:17
+msgid "Edit Food"
+msgstr ""
+
+#: wp-food/admin/class-wp-food-postype.php:18
+msgid "New Food"
+msgstr ""
+
+#: wp-food/admin/class-wp-food-postype.php:20
+msgid "View Food"
+msgstr ""
+
+#: wp-food/admin/class-wp-food-postype.php:21
+msgid "Search Food"
+msgstr ""
+
+#: wp-food/admin/class-wp-food-postype.php:22
+msgid "No Food found"
+msgstr ""
+
+#: wp-food/admin/class-wp-food-postype.php:23
+msgid "No Food found in Trash"
+msgstr ""
+
+#: wp-food/admin/class-wp-food-postype.php:53
+#: wp-food/admin/class-wp-food-postype.php:54
+#: wp-food/admin/class-wp-food-postype.php:55
+#: wp-food/admin/shortcode-builder.php:199
+#: wp-food/inc/shortcodes/wp-food-carousel.php:164
+#: wp-food/inc/shortcodes/wp-food-grid.php:181
+#: wp-food/inc/shortcodes/wp-food-list.php:168
+#: wp-food/inc/shortcodes/wp-food-table.php:125
+#: wp-food/inc/shortcodes/wp-food-table.php:220
+msgid "Menu"
+msgstr ""
+
+#: wp-food/admin/class-wp-food-postype.php:56
+msgid "All Menu"
+msgstr ""
+
+#: wp-food/admin/class-wp-food-postype.php:57
+msgid "Parent Menu"
+msgstr ""
+
+#: wp-food/admin/class-wp-food-postype.php:58
+msgid "Parent Menu:"
+msgstr ""
+
+#: wp-food/admin/class-wp-food-postype.php:59
+msgid "Edit Menu"
+msgstr ""
+
+#: wp-food/admin/class-wp-food-postype.php:60
+msgid "Update Menu"
+msgstr ""
+
+#: wp-food/admin/class-wp-food-postype.php:61
+msgid "Add New Menu"
+msgstr ""
+
+#: wp-food/admin/class-wp-food-postype.php:62
+msgid "Menus"
+msgstr ""
+
+#: wp-food/admin/class-wp-food-postype.php:76
+#: wp-food/admin/class-wp-food-postype.php:77
+#: wp-food/admin/class-wp-food-postype.php:78
+#: wp-food/admin/class-wp-order-postype.php:214
+#: wp-food/templates/content-shortcodes/content-checkout.php:90
+msgid "Location"
+msgstr ""
+
+#: wp-food/admin/class-wp-food-postype.php:79
+msgid "All Location"
+msgstr ""
+
+#: wp-food/admin/class-wp-food-postype.php:80
+msgid "Parent Location"
+msgstr ""
+
+#: wp-food/admin/class-wp-food-postype.php:81
+msgid "Parent Location:"
+msgstr ""
+
+#: wp-food/admin/class-wp-food-postype.php:82
+msgid "Edit Location"
+msgstr ""
+
+#: wp-food/admin/class-wp-food-postype.php:83
+msgid "Update Location"
+msgstr ""
+
+#: wp-food/admin/class-wp-food-postype.php:84
+msgid "Add New Location"
+msgstr ""
+
+#: wp-food/admin/class-wp-food-postype.php:85
+msgid "Locations"
+msgstr ""
+
+#: wp-food/admin/class-wp-order-postype.php:13
+#: wp-food/admin/class-wp-order-postype.php:14
+#: wp-food/admin/shortcode-builder.php:205 wp-food/inc/functions.php:726
+#: wp-food/inc/functions.php:864
+#: wp-food/inc/shortcodes/wp-food-carousel.php:173
+#: wp-food/inc/shortcodes/wp-food-grid.php:190
+#: wp-food/inc/shortcodes/wp-food-list.php:177
+#: wp-food/inc/shortcodes/wp-food-table.php:229
+#: wp-food/templates/content-shortcodes/content-grid-3.php:29
+msgid "Order"
+msgstr ""
+
+#: wp-food/admin/class-wp-order-postype.php:15
+#: wp-food/admin/class-wp-order-postype.php:16
+msgid "Add New Order"
+msgstr ""
+
+#: wp-food/admin/class-wp-order-postype.php:17
+msgid "Edit Order"
+msgstr ""
+
+#: wp-food/admin/class-wp-order-postype.php:18
+msgid "New Order"
+msgstr ""
+
+#: wp-food/admin/class-wp-order-postype.php:19
+#: wp-food/admin/class-wp-order-postype.php:25
+#: wp-food/inc/shortcodes/wp-food-user.php:42
+msgid "Orders"
+msgstr ""
+
+#: wp-food/admin/class-wp-order-postype.php:20
+msgid "View Order"
+msgstr ""
+
+#: wp-food/admin/class-wp-order-postype.php:21
+msgid "Search Order"
+msgstr ""
+
+#: wp-food/admin/class-wp-order-postype.php:22
+msgid "No Order found"
+msgstr ""
+
+#: wp-food/admin/class-wp-order-postype.php:23
+msgid "No Order found in Trash"
+msgstr ""
+
+#: wp-food/admin/class-wp-order-postype.php:47
+#: wp-food/admin/class-wp-order-postype.php:48
+#: wp-food/admin/class-wp-order-postype.php:253
+msgid "Store"
+msgstr ""
+
+#: wp-food/admin/class-wp-order-postype.php:49
+#: wp-food/admin/class-wp-order-postype.php:50
+msgid "Add New Store"
+msgstr ""
+
+#: wp-food/admin/class-wp-order-postype.php:51
+msgid "Edit Store"
+msgstr ""
+
+#: wp-food/admin/class-wp-order-postype.php:52
+msgid "New Store"
+msgstr ""
+
+#: wp-food/admin/class-wp-order-postype.php:53
+#: wp-food/admin/class-wp-order-postype.php:59
+msgid "Stores"
+msgstr ""
+
+#: wp-food/admin/class-wp-order-postype.php:54
+msgid "View Store"
+msgstr ""
+
+#: wp-food/admin/class-wp-order-postype.php:55
+msgid "Search Store"
+msgstr ""
+
+#: wp-food/admin/class-wp-order-postype.php:56
+msgid "No Store"
+msgstr ""
+
+#: wp-food/admin/class-wp-order-postype.php:57
+msgid "No Store in Trash"
+msgstr ""
+
+#: wp-food/admin/class-wp-order-postype.php:87
+#: wp-food/inc/shortcodes/wp-food-user.php:55
+#: wp-food/templates/thankyou.php:58
+msgid "Order details"
+msgstr ""
+
+#: wp-food/admin/class-wp-order-postype.php:91
+#: wp-food/admin/class-wp-order-postype.php:305
+#: wp-food/inc/shortcodes/wp-food-user.php:198
+msgid "Status"
+msgstr ""
+
+#: wp-food/admin/class-wp-order-postype.php:99
+#: wp-food/admin/class-wp-order-postype.php:324
+#: wp-food/inc/shortcodes/wp-food-user.php:221
+#: wp-food/inc/shortcodes/wp-food-user.php:233
+msgid "On Hold"
+msgstr ""
+
+#: wp-food/admin/class-wp-order-postype.php:100
+#: wp-food/admin/class-wp-order-postype.php:320
+#: wp-food/inc/shortcodes/wp-food-user.php:224
+msgid "Processing"
+msgstr ""
+
+#: wp-food/admin/class-wp-order-postype.php:101
+#: wp-food/admin/class-wp-order-postype.php:322
+#: wp-food/inc/shortcodes/wp-food-user.php:227
+msgid "Completed"
+msgstr ""
+
+#: wp-food/admin/class-wp-order-postype.php:102
+#: wp-food/admin/class-wp-order-postype.php:318
+#: wp-food/inc/shortcodes/wp-food-user.php:230
+msgid "Cancelled"
+msgstr ""
+
+#: wp-food/admin/class-wp-order-postype.php:106
+msgid "Order type"
+msgstr ""
+
+#: wp-food/admin/class-wp-order-postype.php:114
+#: wp-food/inc/shortcodes/wp-food-user.php:72
+#: wp-food/templates/email-admin-template.php:50
+#: wp-food/templates/email-template.php:50 wp-food/templates/thankyou.php:25
+#: wp-food/templates/content-shortcodes/content-checkout.php:51
+msgid "Order and  wait delivery"
+msgstr ""
+
+#: wp-food/admin/class-wp-order-postype.php:115
+#: wp-food/inc/shortcodes/wp-food-user.php:74
+#: wp-food/templates/email-admin-template.php:52
+#: wp-food/templates/email-template.php:52 wp-food/templates/thankyou.php:27
+#: wp-food/templates/content-shortcodes/content-checkout.php:55
+msgid "Order and carryout"
+msgstr ""
+
+#: wp-food/admin/class-wp-order-postype.php:119
+msgid "Billing first name"
+msgstr ""
+
+#: wp-food/admin/class-wp-order-postype.php:127
+msgid "Billing last name"
+msgstr ""
+
+#: wp-food/admin/class-wp-order-postype.php:134
+#: wp-food/templates/content-shortcodes/content-checkout.php:100
+msgid "Phone number"
+msgstr ""
+
+#: wp-food/admin/class-wp-order-postype.php:141
+#: wp-food/templates/content-shortcodes/content-checkout.php:104
+msgid "Email"
+msgstr ""
+
+#: wp-food/admin/class-wp-order-postype.php:169
+#: wp-food/inc/shortcodes/wp-food-user.php:79
+#: wp-food/templates/email-admin-template.php:56
+#: wp-food/templates/email-template.php:56 wp-food/templates/thankyou.php:33
+#: wp-food/templates/content-shortcodes/content-checkout.php:61
+msgid "Date Delivery"
+msgstr ""
+
+#: wp-food/admin/class-wp-order-postype.php:182
+#: wp-food/admin/class-wp-order-postype.php:194
+#: wp-food/inc/shortcodes/wp-food-user.php:87
+#: wp-food/templates/email-admin-template.php:57
+#: wp-food/templates/email-template.php:57 wp-food/templates/thankyou.php:39
+#: wp-food/templates/content-shortcodes/content-checkout.php:74
+msgid "Time Delivery"
+msgstr ""
+
+#: wp-food/admin/class-wp-order-postype.php:242
+msgid "Select store for ordering"
+msgstr ""
+
+#: wp-food/admin/class-wp-order-postype.php:264
+msgid "Shiping address"
+msgstr ""
+
+#: wp-food/admin/class-wp-order-postype.php:271
+msgid "Order note"
+msgstr ""
+
+#: wp-food/admin/class-wp-order-postype.php:279
+msgid "Order Item"
+msgstr ""
+
+#: wp-food/admin/class-wp-order-postype.php:299
+msgid "Add Items"
+msgstr ""
+
+#: wp-food/admin/class-wp-order-postype.php:304 wp-food/admin/functions.php:19
+#: wp-food/admin/functions.php:71 wp-food/admin/shortcode-builder.php:227
+#: wp-food/inc/shortcodes/wp-food-carousel.php:189
+#: wp-food/inc/shortcodes/wp-food-grid.php:206
+#: wp-food/inc/shortcodes/wp-food-list.php:193
+#: wp-food/inc/shortcodes/wp-food-table.php:245
+#: wp-food/inc/shortcodes/wp-food-user.php:197
+msgid "ID"
+msgstr ""
+
+#: wp-food/admin/functions.php:20 wp-food/admin/functions.php:41
+msgid "Publish date"
+msgstr ""
+
+#: wp-food/admin/functions.php:39 wp-food/admin/shortcode-builder.php:109
+msgid "Type"
+msgstr ""
+
+#: wp-food/admin/functions.php:40 wp-food/admin/shortcode-builder.php:124
+msgid "Shortcode"
+msgstr ""
+
+#: wp-food/admin/functions.php:95 wp-food/admin/inc/metadata-functions.php:237
+msgid "Name | Price"
+msgstr ""
+
+#: wp-food/admin/functions.php:95
+msgid "+ Add meta"
+msgstr ""
+
+#: wp-food/admin/functions.php:96
+#: wp-food/admin/inc/cmb2/includes/helper-functions.php:303
+msgid "Save"
+msgstr ""
+
+#: wp-food/admin/functions.php:114
+#: wp-food/templates/content-shortcodes/content-cart.php:24
+msgid "Details"
+msgstr ""
+
+#: wp-food/admin/functions.php:115 wp-food/inc/shortcodes/wp-food-user.php:105
+#: wp-food/templates/email-admin-template.php:69
+#: wp-food/templates/email-template.php:69 wp-food/templates/thankyou.php:64
+#: wp-food/templates/content-shortcodes/content-cart.php:25
+msgid "Quantity"
+msgstr ""
+
+#: wp-food/admin/functions.php:116 wp-food/inc/shortcodes/wp-food-user.php:152
+#: wp-food/templates/email-admin-template.php:70
+#: wp-food/templates/email-admin-template.php:120
+#: wp-food/templates/email-template.php:70
+#: wp-food/templates/email-template.php:120 wp-food/templates/thankyou.php:65
+#: wp-food/templates/thankyou.php:120
+#: wp-food/templates/content-shortcodes/content-cart.php:26
+msgid "Total"
+msgstr ""
+
+#: wp-food/admin/functions.php:177
+#: wp-food/templates/content-shortcodes/content-cart-mini.php:49
+#: wp-food/templates/content-shortcodes/content-cart.php:93
+msgid "Subtotal:"
+msgstr ""
+
+#: wp-food/admin/functions.php:234 wp-food/inc/functions.php:1059
+msgid "This item does not exist in cart"
+msgstr ""
+
+#: wp-food/admin/shortcode-builder.php:64
+#: wp-food/admin/shortcode-builder.php:65
+#: wp-food/admin/shortcode-builder.php:76
+msgid "Shortcodes"
+msgstr ""
+
+#: wp-food/admin/shortcode-builder.php:66
+#: wp-food/admin/shortcode-builder.php:67
+msgid "Add New Shortcodes"
+msgstr ""
+
+#: wp-food/admin/shortcode-builder.php:68
+msgid "Edit Shortcodes"
+msgstr ""
+
+#: wp-food/admin/shortcode-builder.php:69
+msgid "New Shortcode"
+msgstr ""
+
+#: wp-food/admin/shortcode-builder.php:70
+msgid "Shortcodes builder"
+msgstr ""
+
+#: wp-food/admin/shortcode-builder.php:71
+msgid "View Shortcodes"
+msgstr ""
+
+#: wp-food/admin/shortcode-builder.php:72
+msgid "Search Shortcodes"
+msgstr ""
+
+#: wp-food/admin/shortcode-builder.php:73
+msgid "No Shortcode found"
+msgstr ""
+
+#: wp-food/admin/shortcode-builder.php:74
+msgid "No Shortcode found in Trash"
+msgstr ""
+
+#: wp-food/admin/shortcode-builder.php:104
+msgid "Shortcode type"
+msgstr ""
+
+#: wp-food/admin/shortcode-builder.php:110
+msgid "Select type of shortcode"
+msgstr ""
+
+#: wp-food/admin/shortcode-builder.php:116
+msgid "Grid"
+msgstr ""
+
+#: wp-food/admin/shortcode-builder.php:117
+msgid "Table"
+msgstr ""
+
+#: wp-food/admin/shortcode-builder.php:118
+msgid "List"
+msgstr ""
+
+#: wp-food/admin/shortcode-builder.php:119
+msgid "Carousel"
+msgstr ""
+
+#: wp-food/admin/shortcode-builder.php:125
+msgid ""
+"Copy this shortcode and paste it into your post, page, or text widget "
+"content:"
+msgstr ""
+
+#: wp-food/admin/shortcode-builder.php:136
+msgid "Shortcode Option"
+msgstr ""
+
+#: wp-food/admin/shortcode-builder.php:141
+#: wp-food/inc/shortcodes/wp-food-carousel.php:119
+#: wp-food/inc/shortcodes/wp-food-grid.php:130
+#: wp-food/inc/shortcodes/wp-food-list.php:132
+msgid "Style"
+msgstr ""
+
+#: wp-food/admin/shortcode-builder.php:142
+msgid "Select style of shortcode"
+msgstr ""
+
+#: wp-food/admin/shortcode-builder.php:149
+#: wp-food/inc/shortcodes/wp-food-carousel.php:122
+#: wp-food/inc/shortcodes/wp-food-grid.php:133
+#: wp-food/inc/shortcodes/wp-food-list.php:135
+msgid "1"
+msgstr ""
+
+#: wp-food/admin/shortcode-builder.php:150
+#: wp-food/inc/shortcodes/wp-food-carousel.php:123
+#: wp-food/inc/shortcodes/wp-food-grid.php:134
+#: wp-food/inc/shortcodes/wp-food-list.php:136
+msgid "2"
+msgstr ""
+
+#: wp-food/admin/shortcode-builder.php:151
+#: wp-food/inc/shortcodes/wp-food-carousel.php:124
+#: wp-food/inc/shortcodes/wp-food-grid.php:135
+#: wp-food/inc/shortcodes/wp-food-list.php:137
+msgid "3"
+msgstr ""
+
+#: wp-food/admin/shortcode-builder.php:152
+#: wp-food/inc/shortcodes/wp-food-carousel.php:125
+#: wp-food/inc/shortcodes/wp-food-grid.php:136
+msgid "4"
+msgstr ""
+
+#: wp-food/admin/shortcode-builder.php:157
+#: wp-food/inc/shortcodes/wp-food-grid.php:144
+msgid "Columns"
+msgstr ""
+
+#: wp-food/admin/shortcode-builder.php:158
+msgid "Select Columns of shortcode"
+msgstr ""
+
+#: wp-food/admin/shortcode-builder.php:165
+#: wp-food/inc/shortcodes/wp-food-grid.php:147
+msgid "2 columns"
+msgstr ""
+
+#: wp-food/admin/shortcode-builder.php:166
+#: wp-food/inc/shortcodes/wp-food-grid.php:148
+msgid "3 columns"
+msgstr ""
+
+#: wp-food/admin/shortcode-builder.php:167
+#: wp-food/inc/shortcodes/wp-food-grid.php:149
+msgid "4 columns"
+msgstr ""
+
+#: wp-food/admin/shortcode-builder.php:168
+#: wp-food/inc/shortcodes/wp-food-grid.php:150
+msgid "5 columns"
+msgstr ""
+
+#: wp-food/admin/shortcode-builder.php:172
+#: wp-food/inc/shortcodes/wp-food-carousel.php:132
+#: wp-food/inc/shortcodes/wp-food-grid.php:157
+#: wp-food/inc/shortcodes/wp-food-list.php:144
+#: wp-food/inc/shortcodes/wp-food-table.php:196
+msgid "Count"
+msgstr ""
+
+#: wp-food/admin/shortcode-builder.php:173
+msgid "Number of posts"
+msgstr ""
+
+#: wp-food/admin/shortcode-builder.php:179
+msgid "Posts per page"
+msgstr ""
+
+#: wp-food/admin/shortcode-builder.php:180
+msgid "Number items per page"
+msgstr ""
+
+#: wp-food/admin/shortcode-builder.php:186
+msgid "Number items visible"
+msgstr ""
+
+#: wp-food/admin/shortcode-builder.php:187
+#: wp-food/admin/shortcode-builder.php:257
+msgid "Enter number"
+msgstr ""
+
+#: wp-food/admin/shortcode-builder.php:193
+#: wp-food/inc/shortcodes/wp-food-carousel.php:156
+#: wp-food/inc/shortcodes/wp-food-grid.php:173
+#: wp-food/inc/shortcodes/wp-food-list.php:160
+#: wp-food/inc/shortcodes/wp-food-table.php:212
+msgid "IDs"
+msgstr ""
+
+#: wp-food/admin/shortcode-builder.php:194
+msgid "Specify post IDs to retrieve"
+msgstr ""
+
+#: wp-food/admin/shortcode-builder.php:200
+#: wp-food/inc/shortcodes/wp-food-carousel.php:167
+#: wp-food/inc/shortcodes/wp-food-grid.php:184
+#: wp-food/inc/shortcodes/wp-food-list.php:171
+#: wp-food/inc/shortcodes/wp-food-table.php:223
+msgid "List of cat ID (or slug), separated by a comma"
+msgstr ""
+
+#: wp-food/admin/shortcode-builder.php:213
+#: wp-food/inc/shortcodes/wp-food-carousel.php:176
+#: wp-food/inc/shortcodes/wp-food-grid.php:193
+#: wp-food/inc/shortcodes/wp-food-list.php:180
+#: wp-food/inc/shortcodes/wp-food-table.php:232
+msgid "DESC"
+msgstr ""
+
+#: wp-food/admin/shortcode-builder.php:214
+#: wp-food/inc/shortcodes/wp-food-carousel.php:177
+#: wp-food/inc/shortcodes/wp-food-grid.php:194
+#: wp-food/inc/shortcodes/wp-food-list.php:181
+#: wp-food/inc/shortcodes/wp-food-table.php:233
+msgid "ASC"
+msgstr ""
+
+#: wp-food/admin/shortcode-builder.php:218
+#: wp-food/inc/shortcodes/wp-food-carousel.php:185
+#: wp-food/inc/shortcodes/wp-food-grid.php:202
+#: wp-food/inc/shortcodes/wp-food-list.php:189
+#: wp-food/inc/shortcodes/wp-food-table.php:241
+msgid "Order by"
+msgstr ""
+
+#: wp-food/admin/shortcode-builder.php:226
+#: wp-food/inc/shortcodes/wp-food-carousel.php:188
+#: wp-food/inc/shortcodes/wp-food-grid.php:205
+#: wp-food/inc/shortcodes/wp-food-list.php:192
+#: wp-food/inc/shortcodes/wp-food-table.php:244
+#: wp-food/inc/shortcodes/wp-food-user.php:196
+msgid "Date"
+msgstr ""
+
+#: wp-food/admin/shortcode-builder.php:228
+#: wp-food/inc/shortcodes/wp-food-carousel.php:190
+#: wp-food/inc/shortcodes/wp-food-grid.php:207
+#: wp-food/inc/shortcodes/wp-food-list.php:194
+#: wp-food/inc/shortcodes/wp-food-table.php:246
+msgid "Author"
+msgstr ""
+
+#: wp-food/admin/shortcode-builder.php:229
+#: wp-food/inc/shortcodes/wp-food-carousel.php:191
+#: wp-food/inc/shortcodes/wp-food-grid.php:208
+#: wp-food/inc/shortcodes/wp-food-list.php:195
+#: wp-food/inc/shortcodes/wp-food-table.php:247
+msgid "Title"
+msgstr ""
+
+#: wp-food/admin/shortcode-builder.php:230
+#: wp-food/admin/inc/metadata-functions.php:200
+#: wp-food/admin/inc/metadata-functions.php:336
+#: wp-food/inc/shortcodes/wp-food-carousel.php:192
+#: wp-food/inc/shortcodes/wp-food-grid.php:209
+#: wp-food/inc/shortcodes/wp-food-list.php:196
+#: wp-food/inc/shortcodes/wp-food-table.php:123
+#: wp-food/inc/shortcodes/wp-food-table.php:248
+#: wp-food/templates/email-admin-template.php:68
+#: wp-food/templates/email-template.php:68 wp-food/templates/thankyou.php:63
+msgid "Name"
+msgstr ""
+
+#: wp-food/admin/shortcode-builder.php:231
+#: wp-food/inc/shortcodes/wp-food-carousel.php:193
+#: wp-food/inc/shortcodes/wp-food-grid.php:210
+#: wp-food/inc/shortcodes/wp-food-list.php:197
+#: wp-food/inc/shortcodes/wp-food-table.php:249
+msgid "Modified"
+msgstr ""
+
+#: wp-food/admin/shortcode-builder.php:232
+#: wp-food/inc/shortcodes/wp-food-carousel.php:194
+#: wp-food/inc/shortcodes/wp-food-grid.php:211
+#: wp-food/inc/shortcodes/wp-food-list.php:198
+#: wp-food/inc/shortcodes/wp-food-table.php:250
+msgid "Parent"
+msgstr ""
+
+#: wp-food/admin/shortcode-builder.php:233
+msgid "Rand"
+msgstr ""
+
+#: wp-food/admin/shortcode-builder.php:234
+#: wp-food/inc/shortcodes/wp-food-carousel.php:196
+#: wp-food/inc/shortcodes/wp-food-grid.php:213
+#: wp-food/inc/shortcodes/wp-food-list.php:200
+#: wp-food/inc/shortcodes/wp-food-table.php:252
+msgid "Menu order"
+msgstr ""
+
+#: wp-food/admin/shortcode-builder.php:235
+#: wp-food/admin/shortcode-builder.php:249
+#: wp-food/inc/shortcodes/wp-food-carousel.php:197
+#: wp-food/inc/shortcodes/wp-food-carousel.php:215
+#: wp-food/inc/shortcodes/wp-food-grid.php:214
+#: wp-food/inc/shortcodes/wp-food-grid.php:232
+#: wp-food/inc/shortcodes/wp-food-list.php:201
+#: wp-food/inc/shortcodes/wp-food-list.php:219
+#: wp-food/inc/shortcodes/wp-food-table.php:253
+#: wp-food/inc/shortcodes/wp-food-table.php:271
+msgid "Meta value"
+msgstr ""
+
+#: wp-food/admin/shortcode-builder.php:236
+#: wp-food/inc/shortcodes/wp-food-carousel.php:198
+#: wp-food/inc/shortcodes/wp-food-grid.php:215
+#: wp-food/inc/shortcodes/wp-food-list.php:202
+#: wp-food/inc/shortcodes/wp-food-table.php:254
+msgid "Meta value num"
+msgstr ""
+
+#: wp-food/admin/shortcode-builder.php:237
+#: wp-food/inc/shortcodes/wp-food-carousel.php:199
+#: wp-food/inc/shortcodes/wp-food-grid.php:216
+#: wp-food/inc/shortcodes/wp-food-list.php:203
+#: wp-food/inc/shortcodes/wp-food-table.php:255
+msgid "Post__in"
+msgstr ""
+
+#: wp-food/admin/shortcode-builder.php:238
+#: wp-food/admin/inc/cmb2/includes/CMB2_Field.php:1328
+#: wp-food/admin/inc/cmb2/includes/CMB2_Field.php:1332
+#: wp-food/inc/shortcodes/wp-food-carousel.php:200
+#: wp-food/inc/shortcodes/wp-food-grid.php:217
+#: wp-food/inc/shortcodes/wp-food-list.php:204
+#: wp-food/inc/shortcodes/wp-food-table.php:256
+msgid "None"
+msgstr ""
+
+#: wp-food/admin/shortcode-builder.php:242
+#: wp-food/inc/shortcodes/wp-food-carousel.php:207
+#: wp-food/inc/shortcodes/wp-food-grid.php:224
+#: wp-food/inc/shortcodes/wp-food-list.php:211
+#: wp-food/inc/shortcodes/wp-food-table.php:263
+msgid "Meta key"
+msgstr ""
+
+#: wp-food/admin/shortcode-builder.php:243
+#: wp-food/inc/shortcodes/wp-food-carousel.php:210
+#: wp-food/inc/shortcodes/wp-food-grid.php:227
+#: wp-food/inc/shortcodes/wp-food-list.php:214
+#: wp-food/inc/shortcodes/wp-food-table.php:266
+msgid "Enter meta key to query"
+msgstr ""
+
+#: wp-food/admin/shortcode-builder.php:250
+#: wp-food/inc/shortcodes/wp-food-carousel.php:218
+#: wp-food/inc/shortcodes/wp-food-grid.php:235
+#: wp-food/inc/shortcodes/wp-food-list.php:222
+#: wp-food/inc/shortcodes/wp-food-table.php:274
+msgid "Enter meta value to query"
+msgstr ""
+
+#: wp-food/admin/shortcode-builder.php:256
+msgid "Number of Excerpt"
+msgstr ""
+
+#: wp-food/admin/shortcode-builder.php:262
+#: wp-food/inc/shortcodes/wp-food-grid.php:249
+#: wp-food/inc/shortcodes/wp-food-list.php:236
+#: wp-food/inc/shortcodes/wp-food-table.php:288
+msgid "Page navi"
+msgstr ""
+
+#: wp-food/admin/shortcode-builder.php:263
+#: wp-food/inc/shortcodes/wp-food-grid.php:255
+#: wp-food/inc/shortcodes/wp-food-list.php:242
+#: wp-food/inc/shortcodes/wp-food-table.php:294
+msgid "Select type of page navigation"
+msgstr ""
+
+#: wp-food/admin/shortcode-builder.php:270
+#: wp-food/inc/shortcodes/wp-food-grid.php:252
+#: wp-food/inc/shortcodes/wp-food-list.php:239
+#: wp-food/inc/shortcodes/wp-food-table.php:291
+msgid "Number"
+msgstr ""
+
+#: wp-food/admin/shortcode-builder.php:271 wp-food/inc/functions.php:287
+#: wp-food/inc/shortcodes/wp-food-grid.php:253
+#: wp-food/inc/shortcodes/wp-food-list.php:240
+#: wp-food/inc/shortcodes/wp-food-table.php:292
+msgid "Load more"
+msgstr ""
+
+#: wp-food/admin/shortcode-builder.php:275
+#: wp-food/inc/shortcodes/wp-food-grid.php:261
+#: wp-food/inc/shortcodes/wp-food-list.php:248
+#: wp-food/inc/shortcodes/wp-food-table.php:312
+msgid "Menu filter"
+msgstr ""
+
+#: wp-food/admin/shortcode-builder.php:276
+msgid "Select show or hide menu filter bar"
+msgstr ""
+
+#: wp-food/admin/shortcode-builder.php:283
+#: wp-food/admin/shortcode-builder.php:310
+#: wp-food/inc/shortcodes/wp-food-grid.php:264
+#: wp-food/inc/shortcodes/wp-food-list.php:251
+#: wp-food/inc/shortcodes/wp-food-table.php:315
+msgid "Hide"
+msgstr ""
+
+#: wp-food/admin/shortcode-builder.php:284
+#: wp-food/admin/shortcode-builder.php:309
+#: wp-food/inc/shortcodes/wp-food-grid.php:265
+#: wp-food/inc/shortcodes/wp-food-list.php:252
+#: wp-food/inc/shortcodes/wp-food-table.php:316
+msgid "Show"
+msgstr ""
+
+#: wp-food/admin/shortcode-builder.php:288
+#: wp-food/inc/shortcodes/wp-food-list.php:260
+msgid "Menu filter Position"
+msgstr ""
+
+#: wp-food/admin/shortcode-builder.php:289
+#: wp-food/inc/shortcodes/wp-food-list.php:266
+msgid "Select posstion of menu filter"
+msgstr ""
+
+#: wp-food/admin/shortcode-builder.php:296
+#: wp-food/inc/shortcodes/wp-food-list.php:263
+msgid "Top"
+msgstr ""
+
+#: wp-food/admin/shortcode-builder.php:297
+#: wp-food/inc/shortcodes/wp-food-list.php:264
+msgid "Left"
+msgstr ""
+
+#: wp-food/admin/shortcode-builder.php:301
+msgid "Show Side cart"
+msgstr ""
+
+#: wp-food/admin/shortcode-builder.php:302
+msgid "Select show or hide side cart"
+msgstr ""
+
+#: wp-food/admin/shortcode-builder.php:314
+#: wp-food/inc/shortcodes/wp-food-table.php:300
+msgid "Live Sort"
+msgstr ""
+
+#: wp-food/admin/shortcode-builder.php:315
+#: wp-food/inc/shortcodes/wp-food-table.php:306
+msgid "Enable Live Sort"
+msgstr ""
+
+#: wp-food/admin/shortcode-builder.php:321
+#: wp-food/admin/shortcode-builder.php:337
+#: wp-food/admin/shortcode-builder.php:357
+#: wp-food/admin/shortcode-builder.php:370
+#: wp-food/admin/inc/metadata-functions.php:226
+#: wp-food/admin/inc/metadata-functions.php:585
+#: wp-food/admin/inc/metadata-functions.php:597
+#: wp-food/admin/inc/metadata-functions.php:617
+#: wp-food/admin/inc/metadata-functions.php:751
+#: wp-food/admin/inc/metadata-functions.php:763
+#: wp-food/admin/inc/metadata-functions.php:775
+#: wp-food/admin/inc/metadata-functions.php:787
+#: wp-food/admin/inc/metadata-functions.php:799
+#: wp-food/admin/inc/metadata-functions.php:811
+#: wp-food/admin/inc/metadata-functions.php:823
+#: wp-food/admin/inc/metadata-functions.php:835
+#: wp-food/admin/inc/metadata-functions.php:847
+#: wp-food/admin/inc/metadata-functions.php:869
+#: wp-food/admin/inc/metadata-functions.php:937
+#: wp-food/inc/shortcodes/wp-food-carousel.php:235
+#: wp-food/inc/shortcodes/wp-food-carousel.php:260
+#: wp-food/inc/shortcodes/wp-food-carousel.php:272
+#: wp-food/inc/shortcodes/wp-food-carousel.php:285
+#: wp-food/inc/shortcodes/wp-food-grid.php:277
+#: wp-food/inc/shortcodes/wp-food-list.php:276
+#: wp-food/inc/shortcodes/wp-food-table.php:303
+#: wp-food/inc/shortcodes/wp-food-table.php:328
+msgid "No"
+msgstr ""
+
+#: wp-food/admin/shortcode-builder.php:322
+#: wp-food/admin/shortcode-builder.php:338
+#: wp-food/admin/shortcode-builder.php:358
+#: wp-food/admin/shortcode-builder.php:371
+#: wp-food/admin/inc/metadata-functions.php:227
+#: wp-food/admin/inc/metadata-functions.php:586
+#: wp-food/admin/inc/metadata-functions.php:598
+#: wp-food/admin/inc/metadata-functions.php:618
+#: wp-food/admin/inc/metadata-functions.php:750
+#: wp-food/admin/inc/metadata-functions.php:762
+#: wp-food/admin/inc/metadata-functions.php:774
+#: wp-food/admin/inc/metadata-functions.php:786
+#: wp-food/admin/inc/metadata-functions.php:798
+#: wp-food/admin/inc/metadata-functions.php:810
+#: wp-food/admin/inc/metadata-functions.php:822
+#: wp-food/admin/inc/metadata-functions.php:834
+#: wp-food/admin/inc/metadata-functions.php:846
+#: wp-food/admin/inc/metadata-functions.php:868
+#: wp-food/admin/inc/metadata-functions.php:938
+#: wp-food/inc/shortcodes/wp-food-carousel.php:236
+#: wp-food/inc/shortcodes/wp-food-carousel.php:261
+#: wp-food/inc/shortcodes/wp-food-carousel.php:273
+#: wp-food/inc/shortcodes/wp-food-carousel.php:284
+#: wp-food/inc/shortcodes/wp-food-grid.php:276
+#: wp-food/inc/shortcodes/wp-food-list.php:275
+#: wp-food/inc/shortcodes/wp-food-table.php:304
+#: wp-food/inc/shortcodes/wp-food-table.php:327
+msgid "Yes"
+msgstr ""
+
+#: wp-food/admin/shortcode-builder.php:329
+#: wp-food/inc/shortcodes/wp-food-carousel.php:232
+msgid "Autoplay"
+msgstr ""
+
+#: wp-food/admin/shortcode-builder.php:330
+msgid "Enable Autoplay"
+msgstr ""
+
+#: wp-food/admin/shortcode-builder.php:342
+#: wp-food/inc/shortcodes/wp-food-carousel.php:244
+msgid "Autoplay Speed"
+msgstr ""
+
+#: wp-food/admin/shortcode-builder.php:343
+#: wp-food/inc/shortcodes/wp-food-carousel.php:251
+msgid "Autoplay Speed in milliseconds. Default:3000"
+msgstr ""
+
+#: wp-food/admin/shortcode-builder.php:349
+msgid "Loading effect"
+msgstr ""
+
+#: wp-food/admin/shortcode-builder.php:350
+#: wp-food/inc/shortcodes/wp-food-carousel.php:257
+msgid "Enable Loading effect"
+msgstr ""
+
+#: wp-food/admin/shortcode-builder.php:362
+#: wp-food/inc/shortcodes/wp-food-carousel.php:269
+msgid "Infinite"
+msgstr ""
+
+#: wp-food/admin/shortcode-builder.php:363
+#: wp-food/inc/shortcodes/wp-food-carousel.php:275
+msgid "Infinite loop sliding ( go to first item when end loop)"
+msgstr ""
+
+#: wp-food/admin/inc/metadata-functions.php:69
+#, php-format
+msgid ""
+"Please enter in monetary decimal (%s) format without thousand separators and "
+"currency."
+msgstr ""
+
+#: wp-food/admin/inc/metadata-functions.php:93
+msgid "Food info"
+msgstr ""
+
+#: wp-food/admin/inc/metadata-functions.php:98
+#: wp-food/admin/inc/metadata-functions.php:281
+#: wp-food/inc/shortcodes/wp-food-table.php:127
+msgid "Price"
+msgstr ""
+
+#: wp-food/admin/inc/metadata-functions.php:99
+#: wp-food/admin/inc/metadata-functions.php:282
+msgid "Enter price"
+msgstr ""
+
+#: wp-food/admin/inc/metadata-functions.php:109
+#: wp-food/admin/inc/metadata-functions.php:289
+msgid "Sale Price"
+msgstr ""
+
+#: wp-food/admin/inc/metadata-functions.php:110
+#: wp-food/admin/inc/metadata-functions.php:290
+msgid "Enter Sale price"
+msgstr ""
+
+#: wp-food/admin/inc/metadata-functions.php:120
+#: wp-food/templates/single-food.php:46
+#: wp-food/templates/content-shortcodes/content-modal.php:54
+msgid "Protein"
+msgstr ""
+
+#: wp-food/admin/inc/metadata-functions.php:121
+#: wp-food/admin/inc/metadata-functions.php:128
+#: wp-food/admin/inc/metadata-functions.php:135
+#: wp-food/admin/inc/metadata-functions.php:142
+#: wp-food/admin/inc/metadata-functions.php:149
+#: wp-food/admin/inc/metadata-functions.php:156
+#: wp-food/admin/inc/metadata-functions.php:163
+msgid "Example: 50mg"
+msgstr ""
+
+#: wp-food/admin/inc/metadata-functions.php:127
+#: wp-food/templates/single-food.php:49
+#: wp-food/templates/content-shortcodes/content-modal.php:57
+msgid "Calories"
+msgstr ""
+
+#: wp-food/admin/inc/metadata-functions.php:134
+#: wp-food/templates/single-food.php:51
+#: wp-food/templates/content-shortcodes/content-modal.php:59
+msgid "Cholesterol"
+msgstr ""
+
+#: wp-food/admin/inc/metadata-functions.php:141
+#: wp-food/templates/single-food.php:53
+#: wp-food/templates/content-shortcodes/content-modal.php:61
+msgid "Dietary fibre"
+msgstr ""
+
+#: wp-food/admin/inc/metadata-functions.php:148
+#: wp-food/templates/single-food.php:55
+#: wp-food/templates/content-shortcodes/content-modal.php:63
+msgid "Sodium"
+msgstr ""
+
+#: wp-food/admin/inc/metadata-functions.php:155
+#: wp-food/templates/single-food.php:57
+#: wp-food/templates/content-shortcodes/content-modal.php:65
+msgid "Carbohydrates"
+msgstr ""
+
+#: wp-food/admin/inc/metadata-functions.php:162
+#: wp-food/templates/single-food.php:59
+#: wp-food/templates/content-shortcodes/content-modal.php:67
+msgid "Fat total"
+msgstr ""
+
+#: wp-food/admin/inc/metadata-functions.php:169
+msgid "Image gallery"
+msgstr ""
+
+#: wp-food/admin/inc/metadata-functions.php:181
+msgid "Additional option"
+msgstr ""
+
+#: wp-food/admin/inc/metadata-functions.php:187
+msgid "Add additional food option to allow user can order with this food"
+msgstr ""
+
+#: wp-food/admin/inc/metadata-functions.php:190
+msgid "Option {#}"
+msgstr ""
+
+#: wp-food/admin/inc/metadata-functions.php:191
+msgid "Add Option"
+msgstr ""
+
+#: wp-food/admin/inc/metadata-functions.php:192
+msgid "Remove Option"
+msgstr ""
+
+#: wp-food/admin/inc/metadata-functions.php:206
+msgid "Option type"
+msgstr ""
+
+#: wp-food/admin/inc/metadata-functions.php:207
+msgid "Select type of this option"
+msgstr ""
+
+#: wp-food/admin/inc/metadata-functions.php:213
+msgid "Checkboxes"
+msgstr ""
+
+#: wp-food/admin/inc/metadata-functions.php:214
+msgid "Radio buttons"
+msgstr ""
+
+#: wp-food/admin/inc/metadata-functions.php:215
+msgid "Select box"
+msgstr ""
+
+#: wp-food/admin/inc/metadata-functions.php:219
+msgid "Required?"
+msgstr ""
+
+#: wp-food/admin/inc/metadata-functions.php:220
+msgid "Select this option is required or not"
+msgstr ""
+
+#: wp-food/admin/inc/metadata-functions.php:231
+msgid "Options"
+msgstr ""
+
+#: wp-food/admin/inc/metadata-functions.php:232
+msgid "Enter name of option and price separator by | Example: Option 1 | 100"
+msgstr ""
+
+#: wp-food/admin/inc/metadata-functions.php:247
+msgid "Food ordering via WooCommerce"
+msgstr ""
+
+#: wp-food/admin/inc/metadata-functions.php:257
+msgid "Edit product in WooCommerce"
+msgstr ""
+
+#: wp-food/admin/inc/metadata-functions.php:271
+#: wp-food/inc/shortcodes/wp-food-user.php:104
+msgid "Product"
+msgstr ""
+
+#: wp-food/admin/inc/metadata-functions.php:274
+msgid "Select or enter id of existing product or add new bellow"
+msgstr ""
+
+#: wp-food/admin/inc/metadata-functions.php:297
+msgid "Sku"
+msgstr ""
+
+#: wp-food/admin/inc/metadata-functions.php:298
+msgid "Enter Sku price"
+msgstr ""
+
+#: wp-food/admin/inc/metadata-functions.php:306
+msgid ""
+"WooCommerce is Required to use this feature, please install or activate "
+"WooCommerce plugin"
+msgstr ""
+
+#: wp-food/admin/inc/metadata-functions.php:317
+msgid "Food Custom Info"
+msgstr ""
+
+#: wp-food/admin/inc/metadata-functions.php:323
+msgid "Add food info, example: Fat saturated... Or anything you want to show"
+msgstr ""
+
+#: wp-food/admin/inc/metadata-functions.php:326
+msgid "Food Info {#}"
+msgstr ""
+
+#: wp-food/admin/inc/metadata-functions.php:327
+msgid "Add Another Food info"
+msgstr ""
+
+#: wp-food/admin/inc/metadata-functions.php:328
+msgid "Remove Custom Food info"
+msgstr ""
+
+#: wp-food/admin/inc/metadata-functions.php:342
+msgid "Info"
+msgstr ""
+
+#: wp-food/admin/inc/metadata-functions.php:357
+msgid "Category Metabox"
+msgstr ""
+
+#: wp-food/admin/inc/metadata-functions.php:382
+msgid "Menu Icon"
+msgstr ""
+
+#: wp-food/admin/inc/metadata-functions.php:383
+msgid "Set icon image for menu"
+msgstr ""
+
+#: wp-food/admin/inc/metadata-functions.php:399
+msgid "Select Image"
+msgstr ""
+
+#: wp-food/admin/inc/metadata-functions.php:453
+#, php-format
+msgid "%s &mdash; Updated!"
+msgstr ""
+
+#: wp-food/admin/inc/metadata-functions.php:467
+msgid "Settings"
+msgstr ""
+
+#: wp-food/admin/inc/metadata-functions.php:472
+msgid "General"
+msgstr ""
+
+#: wp-food/admin/inc/metadata-functions.php:486
+msgid "Main Color"
+msgstr ""
+
+#: wp-food/admin/inc/metadata-functions.php:487
+msgid "Choose Main Color for plugin"
+msgstr ""
+
+#: wp-food/admin/inc/metadata-functions.php:493
+msgid "Content Font Family"
+msgstr ""
+
+#: wp-food/admin/inc/metadata-functions.php:494
+msgid ""
+"Enter Google font-family name . For example, if you choose \"Source Sans Pro"
+"\" Google Font, enter Source Sans Pro"
+msgstr ""
+
+#: wp-food/admin/inc/metadata-functions.php:500
+msgid "Content Font Size"
+msgstr ""
+
+#: wp-food/admin/inc/metadata-functions.php:501
+msgid "Enter size of main font, default:13px, Ex: 14px"
+msgstr ""
+
+#: wp-food/admin/inc/metadata-functions.php:507
+msgid "Content Font Color"
+msgstr ""
+
+#: wp-food/admin/inc/metadata-functions.php:508
+msgid "Choose Content Font Color for plugin"
+msgstr ""
+
+#: wp-food/admin/inc/metadata-functions.php:514
+msgid "Heading Font Family"
+msgstr ""
+
+#: wp-food/admin/inc/metadata-functions.php:515
+#: wp-food/admin/inc/metadata-functions.php:536
+msgid ""
+"Enter Google font-family name. For example, if you choose \"Oswald\" Google "
+"Font, enter Oswald"
+msgstr ""
+
+#: wp-food/admin/inc/metadata-functions.php:521
+msgid "Heading Font Size"
+msgstr ""
+
+#: wp-food/admin/inc/metadata-functions.php:522
+msgid "Enter size of heading font, default: 20px, Ex: 22px"
+msgstr ""
+
+#: wp-food/admin/inc/metadata-functions.php:528
+msgid "Heading Font Color"
+msgstr ""
+
+#: wp-food/admin/inc/metadata-functions.php:529
+msgid "Choose Heading Font Color for plugin"
+msgstr ""
+
+#: wp-food/admin/inc/metadata-functions.php:535
+msgid "Price Font Family"
+msgstr ""
+
+#: wp-food/admin/inc/metadata-functions.php:542
+msgid "Price Font Size"
+msgstr ""
+
+#: wp-food/admin/inc/metadata-functions.php:543
+msgid "Enter size of Price font, default: 20px, Ex: 22px"
+msgstr ""
+
+#: wp-food/admin/inc/metadata-functions.php:549
+msgid "Price Font Color"
+msgstr ""
+
+#: wp-food/admin/inc/metadata-functions.php:550
+msgid "Choose Price Font Color for plugin"
+msgstr ""
+
+#: wp-food/admin/inc/metadata-functions.php:556
+msgid "Meta Font Family"
+msgstr ""
+
+#: wp-food/admin/inc/metadata-functions.php:557
+msgid ""
+"Enter Google font-family name. For example, if you choose \"Ubuntu\" Google "
+"Font, enter Ubuntu"
+msgstr ""
+
+#: wp-food/admin/inc/metadata-functions.php:563
+msgid "Meta Font Size"
+msgstr ""
+
+#: wp-food/admin/inc/metadata-functions.php:564
+msgid "Enter size of metadata font, default:13px, Ex: 12px"
+msgstr ""
+
+#: wp-food/admin/inc/metadata-functions.php:570
+msgid "Meta Font Color"
+msgstr ""
+
+#: wp-food/admin/inc/metadata-functions.php:571
+msgid "Choose Meta Font Color for plugin"
+msgstr ""
+
+#: wp-food/admin/inc/metadata-functions.php:578
+msgid "Disable link & Single food page"
+msgstr ""
+
+#: wp-food/admin/inc/metadata-functions.php:579
+msgid "Select yes to disable link to single member page"
+msgstr ""
+
+#: wp-food/admin/inc/metadata-functions.php:590
+msgid "RTL mode"
+msgstr ""
+
+#: wp-food/admin/inc/metadata-functions.php:591
+msgid "Enable RTL mode for RTL language"
+msgstr ""
+
+#: wp-food/admin/inc/metadata-functions.php:602
+msgid "Food slug"
+msgstr ""
+
+#: wp-food/admin/inc/metadata-functions.php:603
+msgid "Remember to save the permalink settings again in Settings > Permalinks"
+msgstr ""
+
+#: wp-food/admin/inc/metadata-functions.php:610
+msgid "Enable popup location"
+msgstr ""
+
+#: wp-food/admin/inc/metadata-functions.php:611
+msgid "Select yes to enable popup select location"
+msgstr ""
+
+#: wp-food/admin/inc/metadata-functions.php:622
+msgid "Popup location icon"
+msgstr ""
+
+#: wp-food/admin/inc/metadata-functions.php:623
+msgid "Select Icon for location popup, only work when enable popup location"
+msgstr ""
+
+#: wp-food/admin/inc/metadata-functions.php:638
+msgid "Currency"
+msgstr ""
+
+#: wp-food/admin/inc/metadata-functions.php:639
+msgid "Enter Currency(Default: $)"
+msgstr ""
+
+#: wp-food/admin/inc/metadata-functions.php:645
+msgid "Currency Position"
+msgstr ""
+
+#: wp-food/admin/inc/metadata-functions.php:646
+msgid "Select Currency Position"
+msgstr ""
+
+#: wp-food/admin/inc/metadata-functions.php:652
+msgid "After Price"
+msgstr ""
+
+#: wp-food/admin/inc/metadata-functions.php:653
+msgid "Before Price"
+msgstr ""
+
+#: wp-food/admin/inc/metadata-functions.php:657
+msgid "Thousand separator"
+msgstr ""
+
+#: wp-food/admin/inc/metadata-functions.php:658
+msgid "Input Thousand separator"
+msgstr ""
+
+#: wp-food/admin/inc/metadata-functions.php:664
+msgid "Decimal separator"
+msgstr ""
+
+#: wp-food/admin/inc/metadata-functions.php:665
+msgid "Input Decimal separator"
+msgstr ""
+
+#: wp-food/admin/inc/metadata-functions.php:671
+msgid "Number of decimals"
+msgstr ""
+
+#: wp-food/admin/inc/metadata-functions.php:672
+msgid "Input Number of decimals"
+msgstr ""
+
+#: wp-food/admin/inc/metadata-functions.php:684
+msgid "Food ordering via"
+msgstr ""
+
+#: wp-food/admin/inc/metadata-functions.php:685
+msgid "Select booking system when user order food"
+msgstr ""
+
+#: wp-food/admin/inc/metadata-functions.php:691
+msgid "Build-in"
+msgstr ""
+
+#: wp-food/admin/inc/metadata-functions.php:692
+msgid "WooCommerce"
+msgstr ""
+
+#: wp-food/admin/inc/metadata-functions.php:705
+msgid "Advanced"
+msgstr ""
+
+#: wp-food/admin/inc/metadata-functions.php:713
+msgid "Cart page"
+msgstr ""
+
+#: wp-food/admin/inc/metadata-functions.php:714
+msgid "Select Page with content:[exfood_cart]"
+msgstr ""
+
+#: wp-food/admin/inc/metadata-functions.php:722
+#: wp-food/templates/content-shortcodes/content-cart-mini.php:54
+#: wp-food/templates/content-shortcodes/content-cart.php:14
+#: wp-food/templates/content-shortcodes/content-cart.php:100
+#: wp-food/templates/content-shortcodes/content-checkout.php:39
+msgid "Checkout"
+msgstr ""
+
+#: wp-food/admin/inc/metadata-functions.php:723
+msgid "Select Page with content:[exfood_checkout]"
+msgstr ""
+
+#: wp-food/admin/inc/metadata-functions.php:731
+msgid "Email recipients"
+msgstr ""
+
+#: wp-food/admin/inc/metadata-functions.php:732
+msgid ""
+"Enter recipients (comma separated) for this email. Defaults to admin email."
+msgstr ""
+
+#: wp-food/admin/inc/metadata-functions.php:737
+msgid "Checkout field"
+msgstr ""
+
+#: wp-food/admin/inc/metadata-functions.php:743
+msgid "Billing First name required"
+msgstr ""
+
+#: wp-food/admin/inc/metadata-functions.php:744
+#: wp-food/admin/inc/metadata-functions.php:756
+#: wp-food/admin/inc/metadata-functions.php:768
+#: wp-food/admin/inc/metadata-functions.php:780
+#: wp-food/admin/inc/metadata-functions.php:792
+#: wp-food/admin/inc/metadata-functions.php:804
+#: wp-food/admin/inc/metadata-functions.php:816
+#: wp-food/admin/inc/metadata-functions.php:828
+#: wp-food/admin/inc/metadata-functions.php:840
+#: wp-food/admin/inc/metadata-functions.php:852
+msgid "Select yes to make this field is required"
+msgstr ""
+
+#: wp-food/admin/inc/metadata-functions.php:755
+msgid "Billing Last name required"
+msgstr ""
+
+#: wp-food/admin/inc/metadata-functions.php:767
+msgid "Billing Location required"
+msgstr ""
+
+#: wp-food/admin/inc/metadata-functions.php:779
+msgid "Billing Address required"
+msgstr ""
+
+#: wp-food/admin/inc/metadata-functions.php:791
+msgid "Billing Phone required"
+msgstr ""
+
+#: wp-food/admin/inc/metadata-functions.php:803
+msgid "Billing Email required"
+msgstr ""
+
+#: wp-food/admin/inc/metadata-functions.php:815
+msgid "Billing Note required"
+msgstr ""
+
+#: wp-food/admin/inc/metadata-functions.php:827
+msgid "Date select required"
+msgstr ""
+
+#: wp-food/admin/inc/metadata-functions.php:839
+msgid "Time select required"
+msgstr ""
+
+#: wp-food/admin/inc/metadata-functions.php:851
+msgid "Time option"
+msgstr ""
+
+#: wp-food/admin/inc/metadata-functions.php:861
+msgid "Enable reCAPTCHA"
+msgstr ""
+
+#: wp-food/admin/inc/metadata-functions.php:862
+msgid "Select yes to Enable google reCAPTCHA"
+msgstr ""
+
+#: wp-food/admin/inc/metadata-functions.php:873
+msgid "reCAPTCHA Site Key"
+msgstr ""
+
+#: wp-food/admin/inc/metadata-functions.php:874
+msgid "Enter google reCAPTCHA Site Key"
+msgstr ""
+
+#: wp-food/admin/inc/metadata-functions.php:879
+msgid "reCAPTCHA Secret Key"
+msgstr ""
+
+#: wp-food/admin/inc/metadata-functions.php:880
+msgid "Enter google reCAPTCHA Secret Key"
+msgstr ""
+
+#: wp-food/admin/inc/metadata-functions.php:894
+msgid "Custom Code"
+msgstr ""
+
+#: wp-food/admin/inc/metadata-functions.php:902
+msgid "Custom Css"
+msgstr ""
+
+#: wp-food/admin/inc/metadata-functions.php:903
+msgid "Paste your custom Css code"
+msgstr ""
+
+#: wp-food/admin/inc/metadata-functions.php:908
+msgid "Custom Js"
+msgstr ""
+
+#: wp-food/admin/inc/metadata-functions.php:909
+msgid "Paste your custom Js code"
+msgstr ""
+
+#: wp-food/admin/inc/metadata-functions.php:923
+msgid "Js + Css file"
+msgstr ""
+
+#: wp-food/admin/inc/metadata-functions.php:931
+msgid "Turn off Google Font"
+msgstr ""
+
+#: wp-food/admin/inc/metadata-functions.php:932
+msgid "Turn off loading Google Font"
+msgstr ""
+
+#: wp-food/admin/inc/cmb2/includes/CMB2.php:179
+msgid "Metabox configuration is required to have an ID parameter."
+msgstr ""
+
+#: wp-food/admin/inc/cmb2/includes/CMB2_Ajax.php:75
+msgid "Please Try Again"
+msgstr ""
+
+#: wp-food/admin/inc/cmb2/includes/CMB2_Ajax.php:181
+msgid "Remove Embed"
+msgstr ""
+
+#: wp-food/admin/inc/cmb2/includes/CMB2_Ajax.php:189
+#: wp-food/admin/inc/cmb2/includes/helper-functions.php:105
+#, php-format
+msgid "No oEmbed Results Found for %1$s. View more info at %2$s."
+msgstr ""
+
+#: wp-food/admin/inc/cmb2/includes/CMB2_Base.php:422
+#, php-format
+msgid ""
+"The \"%1$s\" field parameter has been deprecated in favor of the \"%2$s\" "
+"parameter."
+msgstr ""
+
+#: wp-food/admin/inc/cmb2/includes/CMB2_Base.php:426
+#, php-format
+msgid ""
+"Using the \"%1$s\" field parameter as a callback has been deprecated in "
+"favor of the \"%2$s\" parameter."
+msgstr ""
+
+#: wp-food/admin/inc/cmb2/includes/CMB2_Base.php:456
+#, php-format
+msgid ""
+"%1$s was called with a parameter that is <strong>deprecated</strong> since "
+"version %2$s! %3$s"
+msgstr ""
+
+#: wp-food/admin/inc/cmb2/includes/CMB2_Base.php:458
+#, php-format
+msgid ""
+"%1$s was called with a parameter that is <strong>deprecated</strong> since "
+"version %2$s with no alternative available."
+msgstr ""
+
+#: wp-food/admin/inc/cmb2/includes/CMB2_Base.php:491
+#: wp-food/admin/inc/cmb2/includes/CMB2_Hookup_Base.php:100
+#: wp-food/admin/inc/cmb2/includes/CMB2_Options_Hookup.php:341
+#: wp-food/admin/inc/cmb2/includes/types/CMB2_Type_Base.php:172
+#, php-format
+msgid "Invalid %1$s property: %2$s"
+msgstr ""
+
+#: wp-food/admin/inc/cmb2/includes/CMB2_Base.php:506
+#: wp-food/admin/inc/cmb2/includes/types/CMB2_Type_Base.php:156
+#, php-format
+msgid "Invalid %1$s method: %2$s"
+msgstr ""
+
+#: wp-food/admin/inc/cmb2/includes/CMB2_Field.php:1296
+msgid "Add Group"
+msgstr ""
+
+#: wp-food/admin/inc/cmb2/includes/CMB2_Field.php:1297
+msgid "Remove Group"
+msgstr ""
+
+#: wp-food/admin/inc/cmb2/includes/CMB2_Field.php:1443
+msgid "Sorry, this field does not have a cmb_id specified."
+msgstr ""
+
+#: wp-food/admin/inc/cmb2/includes/CMB2_Field_Display.php:432
+#: wp-food/admin/inc/cmb2/includes/CMB2_JS.php:228
+#: wp-food/admin/inc/cmb2/includes/types/CMB2_Type_File_Base.php:79
+msgid "File:"
+msgstr ""
+
+#: wp-food/admin/inc/cmb2/includes/CMB2_hookup.php:181
+msgid ""
+"Term Metadata is a WordPress 4.4+ feature. Please upgrade your WordPress "
+"install."
+msgstr ""
+
+#: wp-food/admin/inc/cmb2/includes/CMB2_hookup.php:185
+msgid "Term metaboxes configuration requires a \"taxonomies\" parameter."
+msgstr ""
+
+#: wp-food/admin/inc/cmb2/includes/CMB2_hookup.php:458
+#, php-format
+msgid "Toggle panel: %s"
+msgstr ""
+
+#: wp-food/admin/inc/cmb2/includes/CMB2_Hookup_Base.php:42
+#, php-format
+msgid "%1$s should be implemented by the extended class."
+msgstr ""
+
+#: wp-food/admin/inc/cmb2/includes/CMB2_JS.php:165
+#: wp-food/admin/inc/cmb2/includes/CMB2_JS.php:208
+msgid "Clear"
+msgstr ""
+
+#: wp-food/admin/inc/cmb2/includes/CMB2_JS.php:166
+msgid "Default"
+msgstr ""
+
+#: wp-food/admin/inc/cmb2/includes/CMB2_JS.php:167
+msgid "Select Color"
+msgstr ""
+
+#: wp-food/admin/inc/cmb2/includes/CMB2_JS.php:168
+msgid "Current Color"
+msgstr ""
+
+#: wp-food/admin/inc/cmb2/includes/CMB2_JS.php:199
+msgid "Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday"
+msgstr ""
+
+#: wp-food/admin/inc/cmb2/includes/CMB2_JS.php:200
+msgid "Su, Mo, Tu, We, Th, Fr, Sa"
+msgstr ""
+
+#: wp-food/admin/inc/cmb2/includes/CMB2_JS.php:201
+msgid "Sun, Mon, Tue, Wed, Thu, Fri, Sat"
+msgstr ""
+
+#: wp-food/admin/inc/cmb2/includes/CMB2_JS.php:202
+msgid ""
+"January, February, March, April, May, June, July, August, September, "
+"October, November, December"
+msgstr ""
+
+#: wp-food/admin/inc/cmb2/includes/CMB2_JS.php:203
+msgid "Jan, Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, Dec"
+msgstr ""
+
+#: wp-food/admin/inc/cmb2/includes/CMB2_JS.php:204
+msgid "Next"
+msgstr ""
+
+#: wp-food/admin/inc/cmb2/includes/CMB2_JS.php:205
+msgid "Prev"
+msgstr ""
+
+#: wp-food/admin/inc/cmb2/includes/CMB2_JS.php:206
+msgid "Today"
+msgstr ""
+
+#: wp-food/admin/inc/cmb2/includes/CMB2_JS.php:207
+#: wp-food/admin/inc/cmb2/includes/CMB2_JS.php:217
+msgid "Done"
+msgstr ""
+
+#: wp-food/admin/inc/cmb2/includes/CMB2_JS.php:211
+msgid "Choose Time"
+msgstr ""
+
+#: wp-food/admin/inc/cmb2/includes/CMB2_JS.php:212
+msgid "Time"
+msgstr ""
+
+#: wp-food/admin/inc/cmb2/includes/CMB2_JS.php:213
+msgid "Hour"
+msgstr ""
+
+#: wp-food/admin/inc/cmb2/includes/CMB2_JS.php:214
+msgid "Minute"
+msgstr ""
+
+#: wp-food/admin/inc/cmb2/includes/CMB2_JS.php:215
+msgid "Second"
+msgstr ""
+
+#: wp-food/admin/inc/cmb2/includes/CMB2_JS.php:216
+msgid "Now"
+msgstr ""
+
+#: wp-food/admin/inc/cmb2/includes/CMB2_JS.php:224
+msgid "Use this file"
+msgstr ""
+
+#: wp-food/admin/inc/cmb2/includes/CMB2_JS.php:225
+msgid "Use these files"
+msgstr ""
+
+#: wp-food/admin/inc/cmb2/includes/CMB2_JS.php:226
+#: wp-food/admin/inc/cmb2/includes/types/CMB2_Type_File_Base.php:64
+msgid "Remove Image"
+msgstr ""
+
+#: wp-food/admin/inc/cmb2/includes/CMB2_JS.php:227
+#: wp-food/admin/inc/cmb2/includes/CMB2_Types.php:412
+#: wp-food/admin/inc/cmb2/includes/types/CMB2_Type_File_Base.php:84
+msgid "Remove"
+msgstr ""
+
+#: wp-food/admin/inc/cmb2/includes/CMB2_JS.php:229
+#: wp-food/admin/inc/cmb2/includes/types/CMB2_Type_File_Base.php:82
+msgid "Download"
+msgstr ""
+
+#: wp-food/admin/inc/cmb2/includes/CMB2_JS.php:230
+msgid "Select / Deselect All"
+msgstr ""
+
+#: wp-food/admin/inc/cmb2/includes/CMB2_Options_Hookup.php:131
+msgid "Nothing to update."
+msgstr ""
+
+#: wp-food/admin/inc/cmb2/includes/CMB2_Options_Hookup.php:135
+msgid "Settings updated."
+msgstr ""
+
+#: wp-food/admin/inc/cmb2/includes/CMB2_Types.php:231
+msgid "Custom CMB2 field type classes must extend CMB2_Type_Base."
+msgstr ""
+
+#: wp-food/admin/inc/cmb2/includes/CMB2_Types.php:349
+msgid "Add Row"
+msgstr ""
+
+#: wp-food/admin/inc/cmb2/includes/CMB2_Types.php:412
+msgid "Remove Row"
+msgstr ""
+
+#: wp-food/admin/inc/cmb2/includes/rest-api/CMB2_REST_Controller.php:257
+msgid "This box does not have read permissions."
+msgstr ""
+
+#: wp-food/admin/inc/cmb2/includes/rest-api/CMB2_REST_Controller.php:277
+msgid "This box does not have write permissions."
+msgstr ""
+
+#: wp-food/admin/inc/cmb2/includes/rest-api/CMB2_REST_Controller.php:300
+msgid ""
+"No box found by that id. A box needs to be registered with the \"show_in_rest"
+"\" parameter configured."
+msgstr ""
+
+#: wp-food/admin/inc/cmb2/includes/rest-api/CMB2_REST_Controller.php:378
+msgid "A human-readable description of the object."
+msgstr ""
+
+#: wp-food/admin/inc/cmb2/includes/rest-api/CMB2_REST_Controller.php:385
+msgid "The id for the object."
+msgstr ""
+
+#: wp-food/admin/inc/cmb2/includes/rest-api/CMB2_REST_Controller.php:392
+msgid "The title for the object."
+msgstr ""
+
+#: wp-food/admin/inc/cmb2/includes/rest-api/CMB2_REST_Controller_Boxes.php:51
+msgid "Includes the registered fields for the box in the response."
+msgstr ""
+
+#: wp-food/admin/inc/cmb2/includes/rest-api/CMB2_REST_Controller_Boxes.php:72
+msgid ""
+"Includes the fully rendered attributes, 'form_open', 'form_close', as well "
+"as the enqueued 'js_dependencies' script handles, and 'css_dependencies' "
+"stylesheet handles."
+msgstr ""
+
+#: wp-food/admin/inc/cmb2/includes/rest-api/CMB2_REST_Controller_Boxes.php:122
+msgid "No boxes found."
+msgstr ""
+
+#: wp-food/admin/inc/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:27
+msgid ""
+"Includes the box object which the fields are registered to in the response."
+msgstr ""
+
+#: wp-food/admin/inc/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:30
+msgid ""
+"When the '_rendered' argument is passed, the renderable field attributes "
+"will be returned fully rendered. By default, the names of the callback "
+"handers for the renderable attributes will be returned."
+msgstr ""
+
+#: wp-food/admin/inc/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:33
+#: wp-food/admin/inc/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:36
+msgid ""
+"To view or modify the field's value, the 'object_id' and 'object_type' "
+"arguments are required."
+msgstr ""
+
+#: wp-food/admin/inc/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:236
+msgid ""
+"CMB2 Field value cannot be updated without the value parameter specified."
+msgstr ""
+
+#: wp-food/admin/inc/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:297
+msgid ""
+"CMB2 Field value cannot be modified without the object_id and object_type "
+"parameters specified."
+msgstr ""
+
+#: wp-food/admin/inc/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:312
+#: wp-food/admin/inc/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:341
+msgid "No field found by that id."
+msgstr ""
+
+#: wp-food/admin/inc/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:415
+#, php-format
+msgid "Value Error for %s"
+msgstr ""
+
+#: wp-food/admin/inc/cmb2/includes/shim/WP_REST_Controller.php:25
+#, php-format
+msgid "Method '%s' must be overridden."
+msgstr ""
+
+#: wp-food/admin/inc/cmb2/includes/shim/WP_REST_Controller.php:35
+#: wp-food/admin/inc/cmb2/includes/shim/WP_REST_Controller.php:47
+#: wp-food/admin/inc/cmb2/includes/shim/WP_REST_Controller.php:59
+#: wp-food/admin/inc/cmb2/includes/shim/WP_REST_Controller.php:71
+#: wp-food/admin/inc/cmb2/includes/shim/WP_REST_Controller.php:83
+#: wp-food/admin/inc/cmb2/includes/shim/WP_REST_Controller.php:95
+#: wp-food/admin/inc/cmb2/includes/shim/WP_REST_Controller.php:107
+#: wp-food/admin/inc/cmb2/includes/shim/WP_REST_Controller.php:119
+#: wp-food/admin/inc/cmb2/includes/shim/WP_REST_Controller.php:131
+#: wp-food/admin/inc/cmb2/includes/shim/WP_REST_Controller.php:143
+#: wp-food/admin/inc/cmb2/includes/shim/WP_REST_Controller.php:155
+#: wp-food/admin/inc/cmb2/includes/shim/WP_REST_Controller.php:168
+#, php-format
+msgid "Method '%s' not implemented. Must be overridden in subclass."
+msgstr ""
+
+#: wp-food/admin/inc/cmb2/includes/shim/WP_REST_Controller.php:273
+msgid "Current page of the collection."
+msgstr ""
+
+#: wp-food/admin/inc/cmb2/includes/shim/WP_REST_Controller.php:281
+msgid "Maximum number of items to be returned in result set."
+msgstr ""
+
+#: wp-food/admin/inc/cmb2/includes/shim/WP_REST_Controller.php:290
+msgid "Limit results to those matching a string."
+msgstr ""
+
+#: wp-food/admin/inc/cmb2/includes/shim/WP_REST_Controller.php:308
+msgid ""
+"Scope under which the request is made; determines fields present in response."
+msgstr ""
+
+#: wp-food/admin/inc/cmb2/includes/types/CMB2_Type_File.php:76
+msgid "Add or Upload File"
+msgstr ""
+
+#: wp-food/admin/inc/cmb2/includes/types/CMB2_Type_File_List.php:41
+msgid "Add or Upload Files"
+msgstr ""
+
+#: wp-food/admin/inc/cmb2/includes/types/CMB2_Type_Taxonomy_Base.php:115
+msgid "No terms"
+msgstr ""
+
+#: wp-food/admin/inc/Post-Search-field/lib/init.php:47
+msgid "An error has occurred. Please reload the page and try again."
+msgstr ""
+
+#: wp-food/admin/inc/Post-Search-field/lib/init.php:48
+msgid "Find Posts or Pages"
+msgstr ""
+
+#: wp-food/inc/class-buildin-ordering-food.php:23
+msgid "Billing First name is a required field"
+msgstr ""
+
+#: wp-food/inc/class-buildin-ordering-food.php:26
+msgid "Billing Last name is a required field."
+msgstr ""
+
+#: wp-food/inc/class-buildin-ordering-food.php:29
+msgid "Billing Date is a required field."
+msgstr ""
+
+#: wp-food/inc/class-buildin-ordering-food.php:32
+msgid "Billing Time is a required field."
+msgstr ""
+
+#: wp-food/inc/class-buildin-ordering-food.php:35
+msgid "Billing Location is a required field."
+msgstr ""
+
+#: wp-food/inc/class-buildin-ordering-food.php:38
+msgid "Billing Address is a required field."
+msgstr ""
+
+#: wp-food/inc/class-buildin-ordering-food.php:41
+msgid "Billing Phone is a required field."
+msgstr ""
+
+#: wp-food/inc/class-buildin-ordering-food.php:44
+msgid "Billing Email is a required field."
+msgstr ""
+
+#: wp-food/inc/class-buildin-ordering-food.php:46
+msgid "Invalid email address."
+msgstr ""
+
+#: wp-food/inc/class-buildin-ordering-food.php:49
+msgid "Billing Note is a required field."
+msgstr ""
+
+#: wp-food/inc/class-buildin-ordering-food.php:75
+msgid "Failed to validate Recaptcha."
+msgstr ""
+
+#: wp-food/inc/class-buildin-ordering-food.php:79
+msgid "Invalid Recaptcha."
+msgstr ""
+
+#: wp-food/inc/class-buildin-ordering-food.php:130
+msgid "Oops, Something went wrong, please try again!"
+msgstr ""
+
+#: wp-food/inc/class-buildin-ordering-food.php:134
+msgid "Oops, Something went wrong, There is no item in your Cart!"
+msgstr ""
+
+#: wp-food/inc/class-ordering-email.php:14
+#: wp-food/inc/class-ordering-email.php:26
+#, php-format
+msgid "Your order receipt from %s"
+msgstr ""
+
+#: wp-food/inc/class-ordering-email.php:15
+#: wp-food/inc/class-ordering-email.php:27
+msgid "Thank you for your order"
+msgstr ""
+
+#: wp-food/inc/class-ordering-email.php:16
+msgid ""
+"Your order has been received and is now being processed. Your order details "
+"are shown below for your reference:"
+msgstr ""
+
+#: wp-food/inc/class-ordering-email.php:18
+#, php-format
+msgid "Your order receipt from %s is complete"
+msgstr ""
+
+#: wp-food/inc/class-ordering-email.php:19
+msgid "Your order is complete"
+msgstr ""
+
+#: wp-food/inc/class-ordering-email.php:20
+#, php-format
+msgid ""
+"Hi there. Your recent order on %s has been completed. Your order details are "
+"shown below for your reference:"
+msgstr ""
+
+#: wp-food/inc/class-ordering-email.php:22
+#: wp-food/inc/class-ordering-email.php:23
+msgid "Cancelled order"
+msgstr ""
+
+#: wp-food/inc/class-ordering-email.php:24
+msgid "Your order has been cancelled. The order was as follows:"
+msgstr ""
+
+#: wp-food/inc/class-ordering-email.php:28
+msgid ""
+"Your order has been received. Your order details are shown below for your "
+"reference:"
+msgstr ""
+
+#: wp-food/inc/class-ordering-email.php:42
+msgid "New customer order - "
+msgstr ""
+
+#: wp-food/inc/functions.php:349 wp-food/inc/functions.php:554
+msgid "No matching records found"
+msgstr ""
+
+#: wp-food/inc/functions.php:598 wp-food/inc/functions.php:607
+msgid "All"
+msgstr ""
+
+#: wp-food/inc/functions.php:683
+msgid "Select"
+msgstr ""
+
+#: wp-food/inc/functions.php:707
+msgid "This option is required"
+msgstr ""
+
+#: wp-food/inc/functions.php:727
+msgid "Added to cart"
+msgstr ""
+
+#: wp-food/inc/functions.php:1016
+#: wp-food/templates/content-shortcodes/content-cart-mini.php:5
+#: wp-food/templates/content-shortcodes/content-cart.php:6
+msgid "Your cart is currently empty."
+msgstr ""
+
+#: wp-food/inc/functions.php:1129 wp-food/inc/functions.php:1203
+msgid "-- Select --"
+msgstr ""
+
+#: wp-food/inc/functions.php:1172
+msgid "Please choose area you want to order"
+msgstr ""
+
+#: wp-food/inc/functions.php:1249
+msgid "Select store"
+msgstr ""
+
+#: wp-food/inc/shortcodes/wp-food-carousel.php:108
+msgid "wp-food - Carousel"
+msgstr ""
+
+#: wp-food/inc/shortcodes/wp-food-carousel.php:113
+#: wp-food/inc/shortcodes/wp-food-grid.php:124
+#: wp-food/inc/shortcodes/wp-food-list.php:126
+#: wp-food/inc/shortcodes/wp-food-mini-cart.php:24
+#: wp-food/inc/shortcodes/wp-food-table.php:191
+#: wp-food/inc/shortcodes/wp-food-user.php:299
+msgid "wp-food"
+msgstr ""
+
+#: wp-food/inc/shortcodes/wp-food-carousel.php:127
+msgid "Select style of carousel"
+msgstr ""
+
+#: wp-food/inc/shortcodes/wp-food-carousel.php:135
+#: wp-food/inc/shortcodes/wp-food-grid.php:160
+#: wp-food/inc/shortcodes/wp-food-list.php:147
+#: wp-food/inc/shortcodes/wp-food-table.php:199
+msgid "Enter number of foods to show"
+msgstr ""
+
+#: wp-food/inc/shortcodes/wp-food-carousel.php:140
+msgid "Number item visible"
+msgstr ""
+
+#: wp-food/inc/shortcodes/wp-food-carousel.php:143
+msgid "Number of slides to show at a time"
+msgstr ""
+
+#: wp-food/inc/shortcodes/wp-food-carousel.php:148
+msgid "Number slides to scroll"
+msgstr ""
+
+#: wp-food/inc/shortcodes/wp-food-carousel.php:151
+msgid "Number of slides to scroll at a time"
+msgstr ""
+
+#: wp-food/inc/shortcodes/wp-food-carousel.php:159
+#: wp-food/inc/shortcodes/wp-food-grid.php:176
+#: wp-food/inc/shortcodes/wp-food-list.php:163
+#: wp-food/inc/shortcodes/wp-food-table.php:215
+msgid "Specify food IDs to retrieve"
+msgstr ""
+
+#: wp-food/inc/shortcodes/wp-food-carousel.php:195
+#: wp-food/inc/shortcodes/wp-food-grid.php:212
+#: wp-food/inc/shortcodes/wp-food-list.php:199
+#: wp-food/inc/shortcodes/wp-food-table.php:251
+msgid "Random"
+msgstr ""
+
+#: wp-food/inc/shortcodes/wp-food-carousel.php:223
+#: wp-food/inc/shortcodes/wp-food-grid.php:240
+#: wp-food/inc/shortcodes/wp-food-list.php:227
+#: wp-food/inc/shortcodes/wp-food-table.php:279
+msgid "Number of Excerpt ( short description)"
+msgstr ""
+
+#: wp-food/inc/shortcodes/wp-food-carousel.php:226
+#: wp-food/inc/shortcodes/wp-food-grid.php:243
+#: wp-food/inc/shortcodes/wp-food-list.php:230
+#: wp-food/inc/shortcodes/wp-food-table.php:282
+msgid "Enter number of Excerpt, enter:0 to disable excerpt"
+msgstr ""
+
+#: wp-food/inc/shortcodes/wp-food-carousel.php:281
+#: wp-food/inc/shortcodes/wp-food-grid.php:273
+#: wp-food/inc/shortcodes/wp-food-list.php:272
+#: wp-food/inc/shortcodes/wp-food-table.php:324
+msgid "Enable cart"
+msgstr ""
+
+#: wp-food/inc/shortcodes/wp-food-carousel.php:287
+#: wp-food/inc/shortcodes/wp-food-grid.php:279
+#: wp-food/inc/shortcodes/wp-food-list.php:278
+#: wp-food/inc/shortcodes/wp-food-table.php:330
+msgid "Enable side cart icon"
+msgstr ""
+
+#: wp-food/inc/shortcodes/wp-food-grid.php:119
+msgid "wp-food - Grid"
+msgstr ""
+
+#: wp-food/inc/shortcodes/wp-food-grid.php:138
+#: wp-food/inc/shortcodes/wp-food-list.php:139
+msgid "Select style of grid"
+msgstr ""
+
+#: wp-food/inc/shortcodes/wp-food-grid.php:152
+msgid "Select number column of grid"
+msgstr ""
+
+#: wp-food/inc/shortcodes/wp-food-grid.php:165
+#: wp-food/inc/shortcodes/wp-food-list.php:152
+#: wp-food/inc/shortcodes/wp-food-table.php:204
+msgid "Food per page"
+msgstr ""
+
+#: wp-food/inc/shortcodes/wp-food-grid.php:168
+#: wp-food/inc/shortcodes/wp-food-table.php:207
+msgid "Number food per page"
+msgstr ""
+
+#: wp-food/inc/shortcodes/wp-food-grid.php:267
+#: wp-food/inc/shortcodes/wp-food-list.php:254
+#: wp-food/inc/shortcodes/wp-food-table.php:318
+msgid "Select show or hide Menu filter"
+msgstr ""
+
+#: wp-food/inc/shortcodes/wp-food-list.php:121
+msgid "wp-food - List"
+msgstr ""
+
+#: wp-food/inc/shortcodes/wp-food-list.php:155
+msgid "Enter Number food per page"
+msgstr ""
+
+#: wp-food/inc/shortcodes/wp-food-mini-cart.php:19
+msgid "wp-food - Mini Cart"
+msgstr ""
+
+#: wp-food/inc/shortcodes/wp-food-table.php:122
+#: wp-food/templates/email-admin-template.php:67
+#: wp-food/templates/email-template.php:67 wp-food/templates/thankyou.php:62
+msgid "Image"
+msgstr ""
+
+#: wp-food/inc/shortcodes/wp-food-table.php:123
+#: wp-food/inc/shortcodes/wp-food-user.php:106
+msgid "Detail"
+msgstr ""
+
+#: wp-food/inc/shortcodes/wp-food-table.php:124
+msgid "Description"
+msgstr ""
+
+#: wp-food/inc/shortcodes/wp-food-table.php:186
+msgid "wp-food - Table"
+msgstr ""
+
+#: wp-food/inc/shortcodes/wp-food-user.php:11
+msgid "Please login to view this page"
+msgstr ""
+
+#: wp-food/inc/shortcodes/wp-food-user.php:39
+msgid "Dashboard"
+msgstr ""
+
+#: wp-food/inc/shortcodes/wp-food-user.php:45
+#: wp-food/templates/content-shortcodes/content-checkout.php:96
+msgid "Address"
+msgstr ""
+
+#: wp-food/inc/shortcodes/wp-food-user.php:48
+msgid "Logout"
+msgstr ""
+
+#: wp-food/inc/shortcodes/wp-food-user.php:63
+#: wp-food/templates/thankyou.php:16
+msgid "Order Number"
+msgstr ""
+
+#: wp-food/inc/shortcodes/wp-food-user.php:67
+#: wp-food/templates/thankyou.php:20
+msgid "Order Type"
+msgstr ""
+
+#: wp-food/inc/shortcodes/wp-food-user.php:91
+#: wp-food/templates/thankyou.php:45
+msgid "Order Phone"
+msgstr ""
+
+#: wp-food/inc/shortcodes/wp-food-user.php:95
+#: wp-food/templates/thankyou.php:51
+msgid "Order Email"
+msgstr ""
+
+#: wp-food/inc/shortcodes/wp-food-user.php:158
+#: wp-food/templates/thankyou.php:126
+msgid "Order billing"
+msgstr ""
+
+#: wp-food/inc/shortcodes/wp-food-user.php:163
+#: wp-food/templates/email-admin-template.php:134
+#: wp-food/templates/email-template.php:134 wp-food/templates/thankyou.php:131
+msgid "Name: "
+msgstr ""
+
+#: wp-food/inc/shortcodes/wp-food-user.php:164
+#: wp-food/templates/email-admin-template.php:137
+#: wp-food/templates/email-template.php:137 wp-food/templates/thankyou.php:132
+msgid "Location: "
+msgstr ""
+
+#: wp-food/inc/shortcodes/wp-food-user.php:167
+#: wp-food/templates/email-admin-template.php:140
+#: wp-food/templates/email-template.php:140 wp-food/templates/thankyou.php:135
+msgid "Store: "
+msgstr ""
+
+#: wp-food/inc/shortcodes/wp-food-user.php:169
+#: wp-food/templates/email-admin-template.php:142
+#: wp-food/templates/email-template.php:142 wp-food/templates/thankyou.php:137
+msgid "Address: "
+msgstr ""
+
+#: wp-food/inc/shortcodes/wp-food-user.php:170
+#: wp-food/templates/email-admin-template.php:143
+#: wp-food/templates/email-template.php:143 wp-food/templates/thankyou.php:138
+msgid "Phone: "
+msgstr ""
+
+#: wp-food/inc/shortcodes/wp-food-user.php:171
+#: wp-food/templates/email-admin-template.php:144
+#: wp-food/templates/email-template.php:144 wp-food/templates/thankyou.php:139
+msgid "Email: "
+msgstr ""
+
+#: wp-food/inc/shortcodes/wp-food-user.php:172
+#: wp-food/templates/email-admin-template.php:145
+#: wp-food/templates/email-template.php:145 wp-food/templates/thankyou.php:140
+msgid "Note :"
+msgstr ""
+
+#: wp-food/inc/shortcodes/wp-food-user.php:186
+#: wp-food/inc/shortcodes/wp-food-user.php:277
+msgid "Hello"
+msgstr ""
+
+#: wp-food/inc/shortcodes/wp-food-user.php:187
+#: wp-food/inc/shortcodes/wp-food-user.php:278
+msgid "Wellcome to account dashboard page"
+msgstr ""
+
+#: wp-food/inc/shortcodes/wp-food-user.php:188
+msgid ""
+"From your account dashboard you can view your recent orders, manage "
+"addresses."
+msgstr ""
+
+#: wp-food/inc/shortcodes/wp-food-user.php:195
+msgid "Tittle"
+msgstr ""
+
+#: wp-food/inc/shortcodes/wp-food-user.php:249
+msgid "Billing Information"
+msgstr ""
+
+#: wp-food/inc/shortcodes/wp-food-user.php:251
+msgid "First Name:"
+msgstr ""
+
+#: wp-food/inc/shortcodes/wp-food-user.php:255
+msgid "Last name:"
+msgstr ""
+
+#: wp-food/inc/shortcodes/wp-food-user.php:259
+msgid "Phone:"
+msgstr ""
+
+#: wp-food/inc/shortcodes/wp-food-user.php:263
+msgid "Email:"
+msgstr ""
+
+#: wp-food/inc/shortcodes/wp-food-user.php:267
+msgid "Address:"
+msgstr ""
+
+#: wp-food/inc/shortcodes/wp-food-user.php:271
+msgid "Save address"
+msgstr ""
+
+#: wp-food/inc/shortcodes/wp-food-user.php:279
+msgid ""
+"From your account dashboard you can view your recent orders, manage "
+"addresses, and edit your account details."
+msgstr ""
+
+#: wp-food/inc/shortcodes/wp-food-user.php:294
+msgid "wp-food - My account"
+msgstr ""
+
+#: wp-food/inc/shortcodes/wp-food-user.php:304
+msgid "Login Url and regiter"
+msgstr ""
+
+#: wp-food/inc/shortcodes/wp-food-user.php:307
+msgid "Enter login url and regiter instead of using form from WP Food"
+msgstr ""
+
+#: wp-food/inc/widgets/wp-food.php:6
+msgid "Display your food from shortcode builder via widget"
+msgstr ""
+
+#: wp-food/inc/widgets/wp-food.php:8
+msgid "WP Food"
+msgstr ""
+
+#: wp-food/inc/widgets/wp-food.php:32
+msgid "Title:"
+msgstr ""
+
+#: wp-food/inc/widgets/wp-food.php:36
+msgid "Select Shortcode"
+msgstr ""
+
+#: wp-food/inc/widgets/wp-food.php:39
+msgid "Choose a shortcode"
+msgstr ""
+
+#: wp-food/templates/email-admin-template.php:28
+msgid "New customer order"
+msgstr ""
+
+#: wp-food/templates/email-admin-template.php:41
+msgid "The order is as follows:"
+msgstr ""
+
+#: wp-food/templates/email-admin-template.php:43
+#: wp-food/templates/email-template.php:43
+msgid "Order: #"
+msgstr ""
+
+#: wp-food/templates/email-admin-template.php:47
+#: wp-food/templates/email-template.php:47
+msgid "Order Type: "
+msgstr ""
+
+#: wp-food/templates/email-admin-template.php:129
+#: wp-food/templates/email-template.php:129
+msgid "Billing address"
+msgstr ""
+
+#: wp-food/templates/thankyou.php:10
+msgid "Order received"
+msgstr ""
+
+#: wp-food/templates/thankyou.php:11
+msgid "Thank you. Your order has been received."
+msgstr ""
+
+#: wp-food/templates/thankyou.php:116
+msgid "Payment method"
+msgstr ""
+
+#: wp-food/templates/thankyou.php:117
+msgid "Cash on delivery"
+msgstr ""
+
+#: wp-food/templates/content-shortcodes/content-cart-mini.php:53
+msgid "View cart"
+msgstr ""
+
+#: wp-food/templates/content-shortcodes/content-cart.php:13
+#: wp-food/templates/content-shortcodes/content-checkout.php:38
+msgid "Your cart"
+msgstr ""
+
+#: wp-food/templates/content-shortcodes/content-cart.php:15
+#: wp-food/templates/content-shortcodes/content-checkout.php:40
+msgid "Confirm your order"
+msgstr ""
+
+#: wp-food/templates/content-shortcodes/content-checkout.php:5
+msgid "Oops, There is no item in your Cart!"
+msgstr ""
+
+#: wp-food/templates/content-shortcodes/content-checkout.php:43
+msgid "First name"
+msgstr ""
+
+#: wp-food/templates/content-shortcodes/content-checkout.php:47
+msgid "Last name"
+msgstr ""
+
+#: wp-food/templates/content-shortcodes/content-checkout.php:108
+msgid "Order notes"
+msgstr ""
+
+#: wp-food/templates/content-shortcodes/content-checkout.php:121
+msgid "Please vefiry captcha"
+msgstr ""
+
+#: wp-food/templates/content-shortcodes/content-checkout.php:125
+msgid "Place order"
+msgstr ""
+
+#: wp-food/templates/content-shortcodes/content-table-1.php:42
+msgid "Category:"
+msgstr ""

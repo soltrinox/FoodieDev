@@ -1,0 +1,30 @@
+/* Shop Page */
+.woocommerce.archive ul.products li.product .wccm-button,
+.woocommerce.post-type-archive ul.products li.product .wccm-button {
+    margin-left: 5px;
+}
+
+/* Catalog buttons, next to the breadcrumb */
+.woocommerce.archive .wccm-catalog-items .wccm-catalog-item:nth-last-of-type(3) {
+    clear: left;
+}
+
+.woocommerce.archive .wccm-catalog-items .wccm-catalog-item:nth-last-of-type(2),
+.woocommerce.archive .wccm-catalog-items .wccm-catalog-item:nth-last-of-type(3) {
+    display: inline-block;
+}
+
+.woocommerce.archive .wccm-catalog-items .wccm-catalog-item:nth-last-of-type(2) .button,
+.woocommerce.archive .wccm-catalog-items .wccm-catalog-item:nth-last-of-type(3) .button {
+    margin-top: 10px;
+}
+
+/* Single Page */
+.woocommerce.single-product form.cart + p {
+    clear: both;
+}
+
+.woocommerce.single-product form.cart + p .wccm-button {
+    float: left;
+    margin: 10px 10px 10px 0;
+}

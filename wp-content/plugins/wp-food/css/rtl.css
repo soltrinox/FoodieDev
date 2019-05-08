@@ -1,0 +1,184 @@
+.ex-fdlist,
+.exfood-cart-shortcode.exfd-cart-content,
+.exfood-cart-shortcode.exfd-cart-content{ direction:rtl;}
+.ex-fdlist .exstyle-4 figcaption p,
+.ex-fdlist .exstyle-4 figcaption h3,
+.exfood-cart-shortcode.exfd-cart-content ul li > div.exfood-quantity{text-align: right;}
+.ex-fdlist.style-1 .item-grid{
+    border-left: 2px dashed rgba(0, 0, 0, 0.15);
+    border-right: 0;
+}
+@media screen and (max-width: 768px){
+    .ex-fdlist.column-3.style-1 .item-grid:nth-child(3n), .ex-fdlist.column-4.style-1 .item-grid:nth-child(4n), .ex-fdlist.column-5.style-1 .item-grid:nth-child(5n) {
+        border-right: 0;
+    }
+    .ex-fdlist.column-3.style-4  .ctgrid .item-grid:nth-child(3n){margin-left: 10px;margin-right: 0;}
+    .ex-fdlist.column-4.style-4  .ctgrid .item-grid:nth-child(4n){margin-left: 10px;margin-right: 0;}
+    .ex-fdlist.column-5.style-4  .ctgrid .item-grid:nth-child(5n){margin-left: 10px;margin-right: 0;}
+    .ex-fdlist.column-3.style-4  .ctgrid .item-grid:nth-child(2n){margin-left: 0;margin-right: 0;}
+    .ex-fdlist.column-4.style-4  .ctgrid .item-grid:nth-child(2n){margin-left: 0;margin-right: 0;}
+    .ex-fdlist.column-5.style-4  .ctgrid .item-grid:nth-child(2n){margin-left: 0;margin-right: 0;}
+}
+@media screen and (max-width: 992px) and (min-width: 769px){
+    .ex-fdlist.column-5.style-1 .item-grid:nth-child(5n), .ex-fdlist.column-4.style-1 .item-grid:nth-child(4n) {
+        border-right: 0;
+    }
+    .ex-fdlist.column-4.style-4  .ctgrid .item-grid:nth-child(4n){margin-left: : 10px;margin-right: 0;}
+    .ex-fdlist.column-5.style-4  .ctgrid .item-grid:nth-child(5n){margin-left: 10px;margin-right: 0;}
+    .ex-fdlist.column-4.style-4  .ctgrid .item-grid:nth-child(3n){margin-right: 0;margin-left: 0;}
+    .ex-fdlist.column-5.style-4  .ctgrid .item-grid:nth-child(3n){margin-right: 0;margin-left: 0;}
+}
+@media (max-width: 450px){
+  .ex-fdlist.style-1 .ctgrid .item-grid:nth-child(n){border-right: 0}
+  .ex-fdlist.column-2.style-3  .ctgrid .item-grid{
+    width: 100%;
+    margin-right: 0;
+    margin-left: 0;
+  }
+  .ex-fdlist.style-3 .parent_grid .ctgrid .item-grid:nth-child(n),
+  .ex-fdlist.style-4 .parent_grid .ctgrid .item-grid:nth-child(n){
+    width: 100%;
+    margin-right: 0;
+    margin-left: 0;
+  }
+}
+.ex-fdlist.style-3 .item-grid{
+    margin-left: 5px;
+    margin-right: 0;
+}
+.ex-fdlist.column-3.style-3 .item-grid:nth-child(3n),
+.ex-fdlist.column-2.style-3 .item-grid:nth-child(2n){
+    margin-left: 0;
+}
+.ex-fdlist .exstyle-3.exstyle-3-center figcaption .exstyle-3-button{
+    float: right;
+    left: unset;
+    right: 10px;
+}
+.ex-fdlist .exstyle-3 figcaption .exbt-inline{left: unset; right: 10px}
+.ex-fdlist .exstyle-3 figcaption .exbt-inline .exstyle-3-button{position: static;}
+.ex-fdlist .exstyle-3.exstyle-3-center figcaption button{float: right;}
+.exfd-ribbon{
+    left: unset;
+    right: 0;
+}
+.exfd-ribbon span{
+    transform: rotate(45deg);
+    -webkit-transform: rotate(45deg);
+    left: unset;
+    right: -28px;
+}
+.ex-fdlist.style-4 .item-grid{
+    margin-right: unset;
+    margin-left: 10px;
+}
+.ex-fdlist .exstyle-4 .exfd-icon-plus:before{
+    left: 13px;
+}
+.ex-fdlist .exstyle-4 .exfd-icon-plus:after{
+    left: 5px;
+}
+.ex-fdlist.column-2.style-4 .item-grid:nth-child(2n),
+.ex-fdlist.column-3.style-4 .item-grid:nth-child(3n),
+.ex-fdlist.column-4.style-4 .item-grid:nth-child(4n),
+.ex-fdlist.column-5.style-4 .item-grid:nth-child(5n){
+    margin-left: 0;
+}
+.exfd-table-1 th, td{
+    text-align: right;
+}
+.table-lv-sort th.exp-sort{text-align: right;}
+.table-lv-sort th.exp-sort:before, .table-lv-sort th.exp-sort:after{
+    right: unset;
+    left: 5px;
+}
+.ex-loadmore .loadmore-exfood span:not(.load-text):nth-child(2){
+    margin-right: 10px;
+    margin-left: 0;
+}
+.exfd-pagination{ text-align:center;}
+.exfd-pagination .page-navi{
+    width:auto;
+    margin: 0 auto;
+    float: none;
+    direction: rtl;
+}
+.ex-fdlist .exfd-pagination .page-navi .prev-ajax,
+.ex-fdlist .exfd-pagination .page-navi .next-ajax{color: transparent; padding-right: 3px}
+.ex-fdlist .exfd-pagination .page-navi .prev-ajax:after { content: "\2192"; font-size:13px; color:#aaa}
+.ex-fdlist .exfd-pagination .page-navi .next-ajax:after { content: "\2190";font-size:13px; color:#aaa}
+
+.exfood-quantity{ margin: 0 0 0 5px;}
+.ex_modal .modal-content .fd_modal_des h5,
+.ex_modal .modal-content .fd_modal_des h3{text-align: right;}
+.ex_modal .modal-content .fd_modal_des h3:after{left: unset;right: 0}
+.ex_modal .modal-content .exfd-modal-carousel .ex_s_lick-slide{float: right;} 
+
+.exfd-cart-content .exfd-cart-buildin ul li, .exfd-cart-content .woocommerce-mini-cart li{
+    padding: 10px 60px 10px 15px;
+}
+.exfd-cart-content .exfood-close, .exfd-cart-content .woocommerce-mini-cart a.remove.remove_from_cart_button{
+    right:unset;
+    left: 0;
+}
+.exfd-cart-content .exfd-cart-buildin ul li a img, .exfd-cart-content .woocommerce-mini-cart li a img{
+    left: unset;
+    right: 0;
+}
+.exfd-cart-content{
+    left: 0;
+    right: auto;
+    transform: translateX(-100%);
+}
+.ex-fdlist .exfd-shopping-cart{
+    right: unset;
+    left: 8px;
+}
+.exfood-mulit-steps >div{float: right;}
+.exfood-cart-step:before{
+    border-left: 0;
+    border-right: 10px solid #ddd;
+    right: unset;
+    left: -10px;
+}
+.exfood-cart-step:after{
+    border-right: 10px solid #fff;
+    right: unset;
+    left: -9px;
+}
+.exfood-mulit-steps >div.active:after {
+    border-right-color: #ea1f2e;
+    border-left: none;
+}
+.exfood-cart-shortcode.exfd-cart-content ul li .exfood-cart-details{
+    text-align: right;
+}
+.exfood-buildin-cart input[name="food_qty"], .exfood-woocommerce.woocommerce div.quantity input[type=number]{
+    float: right;
+}
+.ex_modal .exfood-quantity{float: right}
+.exfood-quantity input[type="button"]{
+    float: right;
+}
+.ctlist .exf-img{
+    float: right;
+    margin-right: unset;
+    margin-left: 20px;
+}
+.fdstyle-list-1 .fdlist_1_des button{
+    right: unset;
+    left: 0;
+}
+.fdstyle-list-2 .fdlist_2_title .fdlist_2_price{
+    margin-right: unset;
+    margin-left: 40px;
+}
+.fdstyle-list-2 .exfood-addicon{right: unset;left: 0}
+.fdstyle-list-3 .fdlist_3_title h3{text-align: right;}
+.ex-fdlist.ex-fdcarousel .ctgrid.ex_s_lick-slider .ex_s_lick-prev{left: unset; right: 15px; padding-left: unset; padding-right: 5px}
+.ex-fdlist.ex-fdcarousel .ctgrid.ex_s_lick-slider .ex_s_lick-next{right: unset;left: 15px; padding-left: 5px}
+.ex-fdcarousel .ex_s_lick-prev:before, .ex-fdcarousel .ex_s_lick-next:before{
+    border-width: 3px 0 0 3px;
+}
+.exrow-group span{display: inline-block; margin-right: unset; margin-left: 20px}
+.exrow-group input{margin-right: unset; margin-left: 5px}

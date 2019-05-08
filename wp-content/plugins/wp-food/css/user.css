@@ -1,0 +1,68 @@
+.exfd-user-main{width: 100%; font-size: 13px;}
+.exfd-user-main *{box-sizing: border-box;}
+.exfd-user-main .exfd-user-left{
+    float: left;
+    width: 30%;
+}
+.exfd-user-main .exfd-user-left ul{
+    list-style: none;
+    margin: 0;
+}
+.exfd-user-main .exfd-user-left li{
+    border: 1px solid #ccc;
+    border-bottom: 0;
+    padding: 10px 20px;
+}
+.exfd-user-main .exfd-user-left li a{ color: inherit; text-decoration: none;; box-shadow: none;}
+.exfd-user-main .exfd-user-left li:last-child{
+    border-bottom: 1px solid #ccc;
+}
+.exfd-user-main .exfd-user-content{
+    float: left;
+    width: 70%;
+    padding: 0 0 0 30px;
+    padding-top: 0;
+}
+.exfd-user-main .exfd-user-content form p{padding: 0; margin: 0}
+.exfd-user-main .exfd-user-content form p label{display: block;}
+.exfd-user-main .exfd-user-content form p input{width: 100%}
+.exfd-user-main .exfd-user-content form .exfd-column{width: 50%; float: left;}
+.exfd-user-main .exfd-user-content form .exfd-column-padding{padding-left: 10px}
+.exfd-user-main .exfd-user-content form button{margin-top: 10px; background-color: #ebe9eb;
+	color: #4a4a4a;
+    font-weight: 700;
+}
+.exfd-user-main .exfd-user-content form button:hover{background: #bbb}
+.exfd-user-order{}
+.exfd-user-order .exfd-table-order{
+	border-collapse: collapse;
+	margin: 0 auto;
+	background: white;
+}
+
+.exfd-user-order .exfd-table-order thead th{font-size: inherit; font-weight: 700; text-align: center;
+    background: #ea1f2e;
+    color: #fff; padding:10px 15px;
+}
+.exfd-user-main thead th,
+.exfd-user-main tbody tr td{ padding:10px 15px; }
+.exfd-user-order .exfd-table-order tbody tr td a { box-shadow: none; text-decoration: none; }
+.exfd-user-order .exfd-table-order tbody tr:nth-of-type(even){
+    background: #e9e9e9;
+}
+
+.exfd-user-main .exfd-user-content h3{
+    background: #ea1f2e;
+    text-align: center;
+    padding: 10px 25px;
+    color: #fff;
+    font-size: 17px;
+    font-weight: normal;
+    margin:0 0 15px 0;
+}
+.exfd-user-main .exfood-thankyou > div{ margin:0 0 15px 0;}
+.exfd-user-main .exfd-order-detail .exfd-user-tittle{font-weight: 500; font-size: inherit; font-weight: bold;}
+.exfd-user-main .exfd-order-detail p{margin: 0; padding: 0;font-size: inherit; }
+.exfd-user-main .exfd-order-detail .exfd-user-total{font-weight: bold;}
+
+.exfd-user-main .exfd-current{background: #dcdcdc;}

@@ -1,0 +1,95 @@
+.cmb-row.column-2 {
+    width: 50%;
+    display: inline-block;
+}
+.cmb-row.column-4 {
+    width: 25%;
+    display: inline-block;
+}
+.cmb-row.column-3 {
+    width: 33.333333%;
+    display: inline-block;
+}
+.cmb-row.column-3 > div {
+    width: 100% !important;
+}
+.post-type-exfood_order .cmb-row > div,
+.post-type-ex_food .cmb-row > div{
+	padding: 0 15px;
+    box-sizing: border-box;
+}
+
+.cmb-type-group .cmb-row.column-4 .cmb-th, .cmb2-postbox .cmb-row.column-4 .cmb-th,
+.cmb-type-group .cmb-row.column-2 .cmb-th, .cmb2-postbox .cmb-row.column-2 .cmb-th{ width:100%; display: block;}
+.cmb-type-group .cmb-row.column-4 .cmb-th+.cmb-td, .cmb2-postbox .cmb-row.column-4 .cmb-th+.cmb-td,
+.cmb-type-group .cmb-row.column-2 .cmb-th+.cmb-td, .cmb2-postbox .cmb-row.column-2 .cmb-th+.cmb-td{ display: block; float: left; }
+.cmb-row.column-2 .regular-text,
+.cmb-row.column-4 .regular-text{ width:auto}
+.post-type-exfood_scbd .cmb2-wrap select{ min-width:160px;}
+#adminmenu #menu-posts-ex_food ul>li>a:empty{ display:none;}
+.ex-layout-carousel .hide-incarousel,
+.ex-layout-table .hide-intable,
+.ex-layout-list .hide-inlist,
+.ex-layout-grid .hide-ingrid{ opacity:.3; pointer-events: none;}
+.post-type-ex_food .cmb-type-group .cmb2-wrap>.cmb-field-list>.cmb-row, 
+.post-type-ex_food .cmb2-postbox .cmb2-wrap>.cmb-field-list>.cmb-row{ padding: 7px 0; margin: 0;}
+.post-type-ex_food .cmb2-wrap .cmb-row.column-2:last-of-type,
+.post-type-ex_food .cmb2-wrap .cmb-row.column-4:last-of-type,
+.post-type-ex_food .cmb2-wrap .cmb-row.column-3:last-of-type{ border-bottom:1px solid #eee}
+.post-type-exfood_order .cmb2-id-exorder-food-id .cmb-td .exfood-add-food:before,
+.post-type-exfood_order .cmb2-id-exorder-food-id .cmb-td *{ display: none; }
+.post-type-exfood_order .cmb2-id-exorder-food-id .cmb-td .exfood-add-food{ display: inline-block; }
+.exfd-order-items .loading,
+.exfd-order-items.loading{ opacity: .4; }
+.exfd-order-items table {
+    width: 100%;
+    border: 1px solid #ddd;
+    border-spacing: 0;
+}
+.exfd-order-items table tr.exfood-cart-header {
+    background: #f8f8f8;
+    border: 0;
+    border-spacing: 0;
+}
+.exfd-order-items table tr td{ border-bottom: 1px solid #ddd }
+.exfd-order-items table tr td input{ max-width: 50px; text-align: center; }
+.exfd-order-items table tr td a{ text-decoration: none; }
+.exfd-order-items table tr .exfood-container{ 
+    width:100%; 
+    max-width: 200px; 
+    display: block;
+    margin: 10px 0; 
+}
+.exfd-order-items table tr .exfood-cart-details input{ 
+    width:calc( 100% - 40px );
+    display: inline-block;
+    margin:0 5px 0 0;
+    float: left;
+    text-align: left;
+    max-width: 100%; 
+}
+.exfd-order-items table tr .save-order-meta{ display: none; }
+.exfd-order-items table tr .exfood-container + .add-order-meta + .save-order-meta{ display: inline-block; }
+.post-type-exfood_order ._order_status > span{ padding: 5px 8px 7px;background: #4a3b3b; color: #fff; border-radius: 3px; }
+.post-type-exfood_order ._order_status > span._order_status-process{ background: #95a977 }
+.post-type-exfood_order ._order_status > span._order_status-cancel{ background: #ff6d4c }
+.post-type-exfood_order ._order_status > span._order_status-complete{ background: #62abdc }
+.exfood-title img{ max-width: 100px; }
+.cmb2-post-search-button {
+    color: #999;
+    margin: .3em 0 0 2px;
+    cursor: pointer;
+}
+.cmb-image-display{width: 100%; height: auto;}
+.cmb-file-field-image{width: 100%;}
+.cmb-form div[id^="picker-"] {z-index: 1000; background: #EEE; border: 1px solid #CCC; position: absolute; display: block;}
+.exfood-money-info {
+    position: absolute;
+    border: 1px solid #ccc;
+    padding: 3px 10px;
+    background: #f5f5f5;
+    color: red;
+    top: 40px;
+    max-width: 250px;
+}
+.post-type-ex_food .cmb-row .cmb-td {position: relative;}

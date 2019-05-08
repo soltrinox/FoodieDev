@@ -1,0 +1,65 @@
+/* Shop Page */
+.woocommerce.archive .wccm-button {
+    position: relative;
+    bottom: -15px;
+    padding: 10px 30px;
+    margin-top: 5px;
+    border-radius: 2px;
+    opacity: 1;
+    color: #fff;
+    background: rgba(17, 17, 17, 1);
+    font-family: "Roboto Condensed",sans-serif;
+    font-size: 11px;
+    line-height: 25px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+}
+.woocommerce.archive .wccm-button:hover {
+    background-color: rgba(17, 17, 17, 0.8);
+}
+
+/* Catalog buttons, next to the breadcrumb */
+.woocommerce.archive .wccm-catalog-items .wccm-catalog-item:nth-last-of-type(3) {
+    clear: left;
+}
+
+.woocommerce.archive .wccm-catalog-items .wccm-catalog-item:nth-last-of-type(2),
+.woocommerce.archive .wccm-catalog-items .wccm-catalog-item:nth-last-of-type(3) {
+    display: inline-block;
+}
+
+.woocommerce.archive .wccm-catalog-items .wccm-catalog-item:nth-last-of-type(2) .button,
+.woocommerce.archive .wccm-catalog-items .wccm-catalog-item:nth-last-of-type(3) .button {
+    padding: 10px 30px;
+    margin-top: 5px;
+    border-radius: 2px;
+    opacity: 1;
+    color: #fff;
+    background: rgba(17, 17, 17, 1);
+    font-family: "Roboto Condensed",sans-serif;
+    font-size: 11px;
+    line-height: 25px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+}
+.woocommerce.archive .wccm-catalog-items .wccm-catalog-item:nth-last-of-type(2) .button:hover,
+.woocommerce.archive .wccm-catalog-items .wccm-catalog-item:nth-last-of-type(3) .button:hover {
+    background-color: rgba(17, 17, 17, 0.8);
+}
+
+/* Product Page */
+.woocommerce.single-product .wccm-button.compare.button {
+    margin: 10px 10px 10px 0;
+    padding: 10px;
+    border: none;
+    border-radius: 2px;
+    color: #fff;
+    background-color: rgba(17, 17, 17, 1);
+    font-family: "Roboto Condensed", sans-serif;
+    font-size: 11px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+}
+.woocommerce.single-product .wccm-button.compare.button:hover {
+    background-color: rgba(17, 17, 17, 0.8);
+}
