@@ -727,11 +727,11 @@
 			}
 			exfd_carousel('#'+id+' .ctgrid',infinite,start_on,rtl_mode,slidesshow,slidesscroll,auto_play,auto_speed);
 		});
-		jQuery(window).load(function(e) {
-			jQuery('.ex-fdcarousel.ld-screen').each(function(){
-	            jQuery(this).addClass('at-childdiv');
-	        });
-        });
+		// jQuery(window).load(function(e) {
+		// 	jQuery('.ex-fdcarousel.ld-screen').each(function(){
+	    //         jQuery(this).addClass('at-childdiv');
+	    //     });
+        // });
         setTimeout(function() {
             jQuery('.ex-fdcarousel.ld-screen').each(function(){
 	            jQuery(this).addClass('at-childdiv');
