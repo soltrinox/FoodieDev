@@ -674,7 +674,7 @@ function exfood_build_in_cart_form($hide_pm){
 	global $attr,$id_food;
 	?>
 	<div class="exfood-buildin-cart">
-		<form class="exform" method="post" action="<?php esc_url(home_url())?>">
+		<form class="exform SingleItemAddCartForm" name="SingleItemAddCartForm" method="post" action="<?php esc_url(home_url())?>" id="SingleItemAddCartForm" >
 			<input type="hidden" name="food_id" value="<?php echo esc_attr($id_food); ?>">
 			<?php
 			$options = get_post_meta( $id_food, 'exfood_addition_data', true );
@@ -744,7 +744,7 @@ function exfood_build_in_cart_form($hide_pm){
 					<?php }?>
 				</div>
 				<button class="exstyle-button-bin ex-cart">
-					<span class="ex-order"><?php esc_html_e( 'Order', 'wp-food' );?></span>
+					<span class="ex-order" id="SingleItemOrderButton"><?php esc_html_e( 'Order', 'wp-food' );?></span>
 					<span class="ex-added exhidden"><?php esc_html_e( 'Added to cart', 'wp-food' );?></span>
 				</button>
 			</div>
